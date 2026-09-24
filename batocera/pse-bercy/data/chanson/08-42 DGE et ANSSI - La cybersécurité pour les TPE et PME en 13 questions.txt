@@ -1,0 +1,55 @@
+TITRE : Treize questions Riddim
+
+[Intro]
+ANSSI et DGE, treize questions
+Cybersécurité des TPE, PME, en action
+
+[Couplet 1]
+Question un, connais ton parc
+Équipements, logiciels, données, pas de marque
+Question deux, sauvegarde trois-deux-un
+Une hors ligne, restauration testée demain
+
+Question trois, mises à jour sans attendre
+Vulnérabilités publiques, faut pas se laisser prendre
+Question quatre, antivirus à jour
+Des centaines de milliers de codes chaque jour
+
+[Refrain]
+Pas de risque zéro, pas de miracle
+Mais quelques mesures lèvent l'obstacle
+Treize questions pour se protéger
+Avant l'incident, faut se préparer
+
+[Couplet 2]
+Neuf caractères pour le peu critique
+Quinze pour le critique, c'est la logique
+Pare-feu qui bloque les entrées
+Messagerie jamais redirigée
+
+Compte utilisateur sans être admin
+Nomadisme, filtre écran, verrouillage en moins de cinq
+CERT-FR et Cybermalveillance pour s'informer
+Déclarer l'incident sans être sanctionné
+
+[Refrain]
+Pas de risque zéro, pas de miracle
+Mais quelques mesures lèvent l'obstacle
+Treize questions pour se protéger
+Avant l'incident, faut se préparer
+
+[Pont]
+Déconnecter d'Internet d'abord
+Ne pas éteindre, les enquêteurs ont besoin du corps
+Main courante, plainte, CNIL si besoin
+Jamais la rançon, c'est pas le chemin
+
+[Refrain final]
+Pas de risque zéro, pas de miracle
+Cloud configuré, SecNumCloud en spectacle
+Treize questions pour se protéger
+Petite entreprise, grande sécurité
+
+[Outro]
+One love, treize questions, une réponse
+N'attendons pas le pire, on s'annonce
