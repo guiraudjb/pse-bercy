@@ -1,0 +1,137 @@
+LA CYBERSÉCURITÉ POUR LES TPE ET PME EN TREIZE QUESTIONS, GUIDE DE L'AGENCE NATIONALE DE LA SÉCURITÉ DES SYSTÈMES D'INFORMATION ET DE LA DIRECTION GÉNÉRALE DES ENTREPRISES, VERSION DEUX POINT ZÉRO D'OCTOBRE DEUX MILLE VINGT-DEUX.
+
+LEXIQUE COMPLET.
+
+      Le guide ANSSI GP zéro quatre-vingt-six, complémentaire du guide d'hygiène informatique, a été préfacé par Guillaume Poupard, directeur général de l'ANSSI, et Thomas Courbe, directeur général des entreprises, avec le soutien de Cybermalveillance point gouv point fr, de France Num et de la CPME.
+
+      Le système d'information, ou SI, désigne l'ensemble des matériels, logiciels, données et traitements qui constituent le patrimoine informationnel de l'entreprise.
+
+      La règle trois-deux-un impose trois copies de sauvegarde, sur deux supports différents, dont une hors ligne.
+
+      Une phrase de passe est constituée de mots choisis aléatoirement dans un corpus, plus longue qu'un mot de passe classique mais souvent plus simple à mémoriser.
+
+      Le 2FA, authentification à deux facteurs, ajoute au mot de passe un second élément, par exemple un code transmis par un canal tiers.
+
+      Le single sign on est un service d'authentification unifié qui renforce l'authentification et simplifie l'expérience de l'utilisateur.
+
+      La DMZ, zone démilitarisée, est constituée de pare-feux et de services de rebond pour l'interconnexion avec Internet.
+
+      Le VPN en mode full tunneling fait transiter l'ensemble des flux du poste par le tunnel chiffré, en IPsec ou en TLS.
+
+      Le label ExpertCyber identifie les prestataires informatiques de proximité compétents en sécurité, accessibles par Cybermalveillance point gouv point fr.
+
+      La qualification SecNumCloud est le visa de sécurité de l'ANSSI pour les services cloud, qui garantit la sécurité de l'infrastructure et une protection juridique contre les lois extracommunautaires.
+
+COURS DÉTAILLÉ.
+
+I. CONNAÎTRE ET PROTÉGER SON PATRIMOINE NUMÉRIQUE.
+
+   A. Question un, connaître son parc et ses actifs métier.
+
+      Toute entreprise, même unipersonnelle, doit inventorier ses équipements et services, y compris les box, commutateurs, clés quatre G et imprimantes, ses logiciels avec leurs versions et licences, ses données et traitements vitaux, tous les accès et toutes les interconnexions avec l'extérieur.
+
+      Cet inventaire, mis à jour au moins une fois par an, permet de savoir quoi protéger, de supprimer les accès indus d'anciens salariés ou prestataires, et aide les intervenants en cas d'incident.
+
+   B. Question deux, les sauvegardes.
+
+      Les sauvegardes en ligne, sur disques réseau ou dans le cloud, sont souples mais exposées aux rançongiciels, et doivent être complétées par des sauvegardes hors ligne sur un support déconnecté après chaque sauvegarde.
+
+      On sauvegarde les données métier, les données techniques de configuration, les sources d'installation et les licences, à un rythme adapté, par exemple mensuel pour un artisan et quotidien pour une entreprise de services dématérialisés.
+
+      Les sauvegardes sont testées régulièrement par restauration, chiffrées avec une gestion rigoureuse des clés, et soumises aux mêmes obligations juridiques, notamment le RGPD, que le système d'information.
+
+   C. Questions trois et quatre, mises à jour et antivirus.
+
+      La majorité des attaquants exploitent des vulnérabilités publiques et documentées, et le délai entre la publication d'une faille et son exploitation se réduit parfois à quelques jours.
+
+      Il faut appliquer les correctifs dès que possible, activer la mise à jour automatique, remplacer tout matériel ou logiciel qui n'est plus maintenu, et exiger ces mises à jour dans les contrats de sous-traitance.
+
+      L'antivirus est une première ligne de défense contre les menaces connues, dont la base de signatures doit être mise à jour fréquemment, car des centaines de milliers de codes malveillants apparaissent chaque jour.
+
+II. AUTHENTIFICATION, FILTRAGE ET MESSAGERIE.
+
+   A. Question cinq, les mots de passe.
+
+      L'ANSSI recommande une longueur corrélée à la criticité du service : au minimum neuf caractères pour les services peu critiques et quinze caractères pour les services critiques, avec majuscules, minuscules, chiffres et caractères spéciaux et sans élément personnel.
+
+      Les attaques procèdent par force brute, par dictionnaire, par ingénierie sociale à partir des réseaux sociaux, ou à partir de bases de données dérobées.
+
+      Chaque service a son propre mot de passe, jamais le même pour la messagerie personnelle et professionnelle, un coffre-fort de mots de passe certifié par l'ANSSI peut les conserver, et l'authentification multifacteur doit être activée dès qu'elle est proposée.
+
+      Une PME peut bloquer les comptes après plusieurs échecs, désactiver les comptes invités et utiliser des jetons physiques ou un single sign on.
+
+   B. Question six, le pare-feu.
+
+      Pour une TPE, activer le pare-feu préinstallé avec son paramétrage par défaut, qui bloque toute connexion entrante, constitue un premier niveau de protection qui freine les déplacements latéraux.
+
+      Une PME installe un pare-feu homogène sur tous les postes, bloque tous les flux non nécessaires, journalise les flux bloqués, protège l'interconnexion à Internet par des pare-feux physiques et une DMZ, et peut segmenter son réseau en zones.
+
+   C. Question sept, la messagerie.
+
+      La messagerie est un vecteur principal d'infection par pièces jointes piégées et liens d'hameçonnage : on vérifie l'expéditeur, l'attente du message et la cohérence du lien, et en cas de doute on contacte l'émetteur par un autre canal.
+
+      La redirection des messages professionnels vers une messagerie personnelle est à proscrire, et l'on complète l'antivirus par un antispam et un anti-hameçonnage.
+
+      Une PME analyse les pièces jointes en amont des boîtes, active le chiffrement TLS entre serveurs et avec les postes, et place un serveur relais plutôt que d'exposer directement son serveur de messagerie.
+
+III. USAGES, NOMADISME ET SENSIBILISATION.
+
+   A. Question huit, séparer les usages.
+
+      Chaque employé dispose d'un compte utilisateur sans privilège d'administration, utilisé pour naviguer sur Internet, les comptes d'administration servant uniquement à configurer et installer.
+
+      L'idéal est un ordinateur dédié à l'usage professionnel, ou à défaut un compte par usage, et les accès d'un collaborateur qui part sont tous révoqués.
+
+      Une PME interdit par défaut les connexions entre postes, dédie des postes à l'administration et cloisonne son réseau en zones.
+
+   B. Question neuf, le nomadisme.
+
+      Les principales menaces en mobilité sont l'espionnage, le piégeage des équipements par enregistreur de frappe et le vol.
+
+      Les bons réflexes sont le filtre de confidentialité, le chiffrement du disque, le verrouillage automatique en moins de cinq minutes, le refus des équipements de tiers, un chargeur personnel plutôt qu'une prise USB publique, et le partage de connexion quatre G ou cinq G plutôt que les portails captifs des hôtels.
+
+      Une PME fournit tout le matériel, impose un VPN chiffré en full tunneling, n'expose pas ses applications métier sur Internet, protège le BIOS par mot de passe et active le secure boot.
+
+   C. Question dix, s'informer et sensibiliser.
+
+      Une TPE suit les actualités de Cybermalveillance point gouv point fr, et une PME peut suivre la veille du CERT-FR, centre gouvernemental de veille, d'alerte et de réponse aux attaques.
+
+      Une charte informatique remise à chaque nouvel arrivant détaille les usages et la procédure de déclaration d'incident, et la déclaration doit être encouragée par une réponse non coercitive, sauf action délibérée, pour éviter la sous-déclaration.
+
+IV. ASSURANCE, INCIDENT ET CLOUD.
+
+   A. Questions onze et douze, assurance et réaction.
+
+      L'assurance cyber, par clauses d'un contrat classique ou police spécifique, peut couvrir l'usurpation d'identité, la perte d'exploitation, l'accompagnement juridique et la restauration technique, et il faut vérifier que les risques les plus redoutés sont couverts.
+
+      En cas d'incident, le premier réflexe est de déconnecter l'équipement ou le système d'Internet, sans éteindre ni modifier les machines touchées, utiles aux enquêteurs.
+
+      On ne paie jamais la rançon, on ouvre une main courante indiquant pour chaque entrée l'heure, l'auteur et la description, on porte plainte, et on déclare à la CNIL toute fuite de données personnelles.
+
+      Il est préférable d'identifier à l'avance des prestataires de réponse à incident, et les chambres de métiers et chambres de commerce peuvent orienter les entreprises.
+
+   B. Question treize, le cloud.
+
+      Les offres IaaS, PaaS et SaaS exposent sur Internet les outils métier, rendent l'activité dépendante des liaisons, et un défaut de configuration peut exposer les données, d'où la nécessité de configurer et d'activer les fonctions de sécurité.
+
+      Une TPE recherche un service avec authentification à deux facteurs, sauvegardes en ligne et hors ligne, alertes sur les accès suspects et chiffrement HTTPS, et une PME y ajoute une authentification fédérée, un accès réservé aux postes de l'entreprise et des VPN chiffrés.
+
+      Les offres SecNumCloud conviennent notamment aux entreprises qui veulent protéger leurs données contre des contentieux de pays concurrents, en mesurant leurs avantages au regard de leur coût.
+
+POINTS D'ATTENTION.
+
+      Il n'y a ni solution miracle ni risque zéro, mais quelques bonnes pratiques réduisent très significativement le risque.
+
+      Les petites structures sont des cibles de choix, car les attaquants optimisent leurs gains en visant les plus vulnérables.
+
+      Le cloud n'est pas mieux sécurisé par nature, et l'argument selon lequel ce sera mieux sécurisé dans le cloud ne dispense pas d'une approche méthodique.
+
+      En l'absence de préparation, lorsque l'incident survient, il est déjà trop tard.
+
+EXEMPLES CITÉS.
+
+      Le guide interroge le lecteur : si vos données disparaissent et votre informatique s'arrête, êtes-vous prêts à retourner au papier et au crayon.
+
+      Une messagerie piratée peut servir à envoyer des courriels malveillants aux contacts professionnels de la victime pour propager l'attaque.
+
+      Une demande de virement frauduleux prétendument émise par un dirigeant appelle des mesures organisationnelles strictement appliquées.

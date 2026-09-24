@@ -1,0 +1,35 @@
+Quels organismes ont publié le guide La cybersécurité pour les TPE et PME en 13 questions ?;L'ANSSI et la DGE;L'Urssaf et Pôle emploi;La CNIL et l'AMF;L'Insee et la Banque de France;2;Avec le soutien de Cybermalveillance.gouv.fr, France Num et la CPME.
+De quel guide ce document est-il complémentaire ?;Le Code du travail;Le RGPD;Le guide Michelin;Le guide d'hygiène informatique de l'ANSSI;5;Version 2.0 d'octobre 2022.
+Quelle est la première question à se poser pour renforcer son SI ?;Acheter un nouvel ordinateur;Choisir un fond d'écran;Embaucher un hacker;Connaître ses systèmes, applications et données vitales;5;L'inventaire conditionne les mesures de protection.
+À quelle fréquence minimale mettre à jour l'inventaire ?;Chaque heure;Au moins une fois par an;Jamais;Tous les dix ans;3;Il aide aussi en cas d'incident.
+Pourquoi inventorier tous les accès ?;Pour les publier;Pour supprimer les accès indus d'anciens salariés ou prestataires;Pour les vendre;Par curiosité;3;Cela réduit la surface d'exposition.
+Quel est le défaut des sauvegardes en ligne ?;Elles sont exposées aux rançongiciels;Elles sont trop lentes;Elles sont gratuites;Elles sont illégales;2;D'où la nécessité de sauvegardes hors ligne.
+Que prévoit la règle 3-2-1 ?;Trois copies, deux supports, une hors ligne;Trois mots de passe par service;Trois jours de congés;Trois antivirus, deux pare-feu, un VPN;2;Les sauvegardes doivent être testées.
+Quelle fréquence de sauvegarde pour un artisan selon le guide ?;Décennale;Aucune;Mensuelle pour ses factures et son fichier client;Toutes les minutes;4;Une entreprise de services dématérialisés choisira un rythme quotidien.
+Que faut-il faire régulièrement avec les sauvegardes ?;Tester leur restauration;Les publier;Les imprimer;Les effacer;2;Pour garantir qu'elles seront exploitables.
+Que font la majorité des attaquants pour pénétrer un SI ?;Ils exploitent des vulnérabilités publiques et documentées;Ils achètent l'entreprise;Ils envoient des lettres;Ils forcent la porte;2;D'où l'importance des mises à jour rapides.
+Que faire d'un logiciel qui n'est plus maintenu ?;Le désinstaller et le remplacer;Le garder par habitude;Le copier;Le prêter;2;Il ne reçoit plus de correctifs de sécurité.
+Pourquoi mettre à jour la base de signatures de l'antivirus ?;Pour changer sa couleur;Par obligation fiscale;Ce n'est pas utile;Des centaines de milliers de codes malveillants apparaissent chaque jour;5;Sans mise à jour la protection se restreint vite.
+Quelle longueur minimale de mot de passe pour un service critique selon l'ANSSI ?;4 caractères;15 caractères;6 chiffres;9 caractères;3;9 caractères pour les services peu critiques.
+Quelle longueur minimale pour un service peu critique ?;15 caractères;3 caractères;9 caractères;20 caractères;4;La longueur est corrélée à la criticité.
+Qu'est-ce qu'une attaque par dictionnaire ?;L'attaquant essaie les mots de passe les plus courants;Une traduction;Une attaque physique;Un vol de livres;2;Comme azerty.
+Peut-on utiliser le même mot de passe pour sa messagerie personnelle et professionnelle ?;Oui s'il est long;Non, jamais;Oui toujours;Oui le week-end;3;Un mot de passe différent par service.
+Quel outil aide à gérer des mots de passe robustes ?;Un post-it;Un coffre-fort de mots de passe, de préférence certifié ANSSI;Un tableau blanc;Un fichier texte sur le bureau;3;Accessible par un seul mot de passe maître.
+Quand activer l'authentification multifacteur ?;Dès qu'elle est proposée par le service;Seulement en vacances;Jamais;Après un piratage uniquement;2;Messagerie, banque, cloud.
+Quel paramétrage par défaut du pare-feu local est un premier niveau de protection ?;Le désactiver;Bloquer les mises à jour;Le blocage de toute connexion entrante;Tout autoriser;4;Il freine les déplacements latéraux.
+Que doit faire une politique de filtrage minimale ?;Tout autoriser;Ouvrir tous les ports;Bloquer les flux non nécessaires et journaliser les flux bloqués;Supprimer les journaux;4;Pour une PME.
+Quelle pratique de messagerie est à proscrire ?;La redirection des messages professionnels vers une messagerie personnelle;La vérification de l'expéditeur;L'antispam;Le chiffrement TLS;2;C'est un vecteur de fuite irrémédiable.
+Que faire en cas de doute sur un courriel ?;Vérifier son authenticité auprès de l'émetteur par un autre canal;Transférer à tous;Cliquer pour voir;Répondre en donnant ses identifiants;2;Téléphone ou SMS.
+Avec quel compte naviguer sur Internet ?;Le compte administrateur;Le compte invité du voisin;Un compte partagé;Un compte utilisateur sans privilège d'administration;5;Beaucoup d'attaques exploitent les privilèges élevés.
+Quelle durée maximale de verrouillage automatique en nomadisme ?;Une heure;Une journée;Jamais;Moins de 5 minutes;5;Et verrouiller dès qu'on s'absente.
+Comment se connecter à Internet à l'hôtel ?;Par le Wi-Fi public sans précaution;Par la prise USB du hall;Par l'ordinateur de l'hôtel;Par un partage de connexion 4G ou 5G plutôt que le portail captif;5;Les portails captifs sont à éviter.
+Quel VPN une PME doit-elle privilégier pour l'accès distant ?;Aucun VPN;Un VPN gratuit inconnu;Un partage de bureau public;Un VPN chiffré en mode full tunneling;5;IPsec ou TLS.
+Quelle réponse privilégier face à la déclaration d'un incident par un salarié ?;Le licenciement;Une réponse non coercitive, sauf action délibérée;Une sanction systématique;L'ignorer;3;Pour éviter la sous-déclaration.
+Quel centre gouvernemental assure la veille des vulnérabilités ?;Le CERT-FR;L'Insee;Le CNC;La CNIL;2;Adapté aux PME dotées d'un service informatique.
+Quel est le premier réflexe en cas d'incident ?;Payer la rançon;Déconnecter l'équipement ou le SI d'Internet;Formater les disques;Éteindre tous les ordinateurs;3;Pour contenir l'attaquant et l'exfiltration.
+Faut-il éteindre les machines touchées ?;Oui et les réinstaller;Non, elles seront utiles aux enquêteurs;Oui immédiatement;Oui et les jeter;3;Ne pas les modifier non plus.
+Que doit contenir chaque entrée de la main courante ?;Le prix de l'ordinateur;Rien de précis;L'heure, l'auteur et la description de l'action ou de l'événement;La météo;4;Elle facilite l'intervention du prestataire.
+Que faire en cas de fuite de données personnelles ?;Attendre un an;La cacher;La déclarer à la CNIL;Prévenir uniquement les concurrents;4;C'est obligatoire.
+Qu'identifie le label ExpertCyber ?;Des assurances;Des antivirus;Des écoles;Des prestataires informatiques de proximité compétents en sécurité;5;Mise en relation par Cybermalveillance.gouv.fr.
+Quel risque présente le cloud ?;L'usure des disques locaux;Aucun risque;L'exposition des outils métier sur Internet et les défauts de configuration;La hausse de la facture d'électricité;4;Les fonctions de sécurité doivent être activées.
+Que garantit en plus la qualification SecNumCloud ?;Aucun contrôle;La gratuité;Une connexion plus rapide;Une protection juridique contre les lois extracommunautaires;5;Visa de sécurité de l'ANSSI.
