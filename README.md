@@ -2,8 +2,12 @@
 
 Révision des stratégies et rapports d'activité de la DGFiP et des directions des ministères économiques et financiers.
 
-25 modules, consultables depuis l'application de révision
-https://guiraudjb.github.io/PSE25-27/ (ce dépôt en fournit les données via GitHub Pages).
+25 modules. **Module de formation autonome** : https://guiraudjb.github.io/pse-bercy/
+(page `index.html` à la racine, `catalogue.json` limité à ce dépôt). Ses modules
+apparaissent aussi dans l'application commune https://guiraudjb.github.io/PSE25-27/.
+
+`index.html`, `sw.js` et les icônes sont une copie de la page commune
+(`PSE25-27/`) : les modifier là-bas puis lancer `scripts/sync-web.py`, jamais ici.
 
 ## Séries
 
