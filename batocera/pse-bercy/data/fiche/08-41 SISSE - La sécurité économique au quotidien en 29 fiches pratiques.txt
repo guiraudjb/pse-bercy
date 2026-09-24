@@ -1,0 +1,141 @@
+LA SÉCURITÉ ÉCONOMIQUE AU QUOTIDIEN EN VINGT-NEUF FICHES PRATIQUES, GUIDE DU SERVICE DE L'INFORMATION STRATÉGIQUE ET DE LA SÉCURITÉ ÉCONOMIQUES DE LA DIRECTION GÉNÉRALE DES ENTREPRISES, ÉDITION DE NOVEMBRE DEUX MILLE VINGT ET UN ACTUALISÉE EN MAI DEUX MILLE VINGT-SIX.
+
+LEXIQUE COMPLET.
+
+      Le Sisse, Service de l'information stratégique et de la sécurité économiques, placé auprès de la DGE, coordonne la politique de sécurité économique de l'État, oriente les services de renseignement et s'appuie sur vingt et un délégués régionaux, les Disse.
+
+      La sécurité économique consiste en l'analyse et la réduction des risques extrafinanciers pesant sur l'entreprise : non-conformité, réputation, fuite de données stratégiques, usage malveillant du numérique et atteintes à la sûreté des personnes et des biens.
+
+      Le rapport d'étonnement est un compte rendu concis adressé au responsable sûreté, relatant de façon brute toute situation anormale ou inhabituelle, dont l'accumulation transforme des signaux faibles en analyses de risques.
+
+      Le circuit de notoriété est un parcours de visite préétabli qui donne une image valorisante de l'entreprise en évitant les locaux sensibles.
+
+      L'élicitation est une technique de communication intrusive mais légale qui manipule l'interlocuteur par la reconnaissance, la séduction ou l'amitié feinte pour lui soutirer des informations.
+
+      Le name dropping consiste à citer des personnes qui font autorité en laissant entendre qu'on les connaît, pour inspirer confiance.
+
+      Le cybersquat consiste à déposer un nom de domaine usurpant le nom d'une entreprise, et le typosquat repose sur une faute d'orthographe du nom.
+
+      Le Fovi, faux ordre de virement, ou escroquerie au président, vise à obtenir un virement, souvent international, en se faisant passer pour un dirigeant.
+
+      Un bien à double usage est un produit, logiciel ou technologie susceptible d'une utilisation tant civile que militaire, dont l'exportation hors de l'Union européenne peut exiger une licence.
+
+      L'opérateur économique agréé, OEA, est une certification douanière attestant la maîtrise de la réglementation douanière et des risques de sécurité et de sûreté.
+
+      Le carnet ATA, issu de la convention de Bruxelles de mil neuf cent soixante et un, permet l'importation ou l'exportation temporaire de marchandises en suspension de droits et taxes.
+
+COURS DÉTAILLÉ.
+
+I. PENSER LA SÉCURITÉ ÉCONOMIQUE.
+
+   A. Une politique globale.
+
+      Les fiches sont réparties en sept familles, de A à G, et chaque recommandation relève de l'organisationnel pour les managers, du technique pour les responsables de la sécurité et du comportemental pour chacun.
+
+      Une politique de sécurité économique suppose un diagnostic des risques, des moyens dédiés, un ou plusieurs responsables de la sûreté et de la sécurité informatique, des objectifs suivis par audits et tableaux de bord, des actions de sensibilisation et, si possible, un comité sécurité économique.
+
+      Tout fait inhabituel doit être signalé, de préférence par écrit, au responsable de la sécurité.
+
+   B. Veille et information stratégique.
+
+      La veille doit être structurée : connaître l'information déjà disponible en interne, prioriser ses besoins, définir l'échelle géographique et organiser le cycle de l'information, qui collecte, qui analyse, qui diffuse et à quel rythme.
+
+      L'information stratégique s'identifie par une analyse de risques : on évalue l'impact de sa perte, de sa destruction ou de sa divulgation et la probabilité de réalisation, puis on agrège les résultats dans un tableau de criticité en zones rouge, jaune, verte et grise.
+
+      Une information stratégique à un moment donné ne le reste pas forcément, d'où la nécessité de réitérer périodiquement la démarche.
+
+II. DANS L'ENTREPRISE ET POUR PROTÉGER SON PATRIMOINE.
+
+   A. Locaux, personnels temporaires et visiteurs.
+
+      La protection des locaux repose sur un responsable sûreté connu de tous, des zones hiérarchisées, un journal des incidents, une protection graduée, clôture, éclairage, contrôle d'accès, détection d'intrusion, et une gestion rigoureuse des clés et badges, avec les conseils gratuits des référents sûreté de la police et de la gendarmerie.
+
+      Les stagiaires, intérimaires et prestataires font l'objet d'un répertoire, d'une clause de confidentialité, d'un badge apparent, d'un accès informatique limité depuis des équipements de l'entreprise, et leurs comptes sont clôturés dès la fin du contrat.
+
+      Les visiteurs sont déclarés à l'avance, identifiés, badgés, accompagnés en permanence sur un circuit de notoriété, et leurs supports amovibles sont reçus sur un ordinateur dédié non connecté au réseau.
+
+   B. Savoir, compétences et archives.
+
+      Le savoir se protège par les titres de propriété intellectuelle, brevet, marque, dessins et modèles, droit d'auteur, déposés auprès de l'Inpi, de l'EUIPO, de l'OEB ou de l'Ompi, et par une demande d'intervention gratuite auprès des Douanes, valable un an renouvelable, contre la contrefaçon.
+
+      Un brevet ne protège pas une idée mais les moyens techniques qui la concrétisent, et le droit d'auteur s'acquiert sans formalité dès la création.
+
+      Les compétences clés se préservent par la cartographie, le partage des savoirs, la fidélisation et des clauses de confidentialité, de non-concurrence limitée et compensée et de dédit-formation, ainsi qu'une éventuelle assurance personne clé.
+
+      Les archives sont classées, tracées et conservées dans des locaux sécurisés, et les rejets sont détruits au broyeur à coupe croisée ou par effacement sécurisé, y compris les mémoires des imprimantes et les prototypes mis au rebut, car une simple suppression n'est pas une destruction.
+
+III. LA CONDUITE DES AFFAIRES.
+
+   A. Flux, contrats et financements.
+
+      La sécurisation des flux de marchandises passe par l'identification de toute la chaîne logistique, le choix d'Incoterms adaptés, des partenaires certifiés OEA, le contrôle des scellés et documents à réception, et la vérification des licences pour les biens à double usage et des sanctions visant le pays de destination.
+
+      La protection juridique évite les modèles de contrats en libre accès et prévoit des clauses de confidentialité, de non-concurrence, de non-débauchage, de partage d'information et de règlement des litiges.
+
+      Les relations commerciales se sécurisent par la veille sur les partenaires, la confirmation écrite de tout engagement, des originaux numérotés et paraphés, et l'attente de la signature avant tout acompte.
+
+      Lors d'une levée de fonds, on vérifie la réputation de l'investisseur, on ne transmet aucune information stratégique avant une lettre d'intention et un accord de confidentialité, on limite l'accès des auditeurs et on surveille les clauses statutaires, droits de vote et minorité de blocage.
+
+   B. Investissements étrangers et escroqueries.
+
+      Le contrôle des investissements étrangers en France vise les secteurs listés à l'article R cent cinquante et un tiret trois du Code monétaire et financier, un rescrit permet un examen préalable, et le dossier est déposé auprès de la direction générale du Trésor, qui peut rendre un avis hors champ, une autorisation simple, une autorisation sous conditions avec lettre d'engagements, ou un refus.
+
+      Une opération réalisée sans autorisation peut donner lieu à une injonction de régularisation, de modification ou de rétablissement de la situation antérieure, assortie d'astreintes.
+
+      Contre le Fovi, on sensibilise tout le personnel, on limite les informations publiées sur les réseaux sociaux, on impose des signatures multiples pour les paiements internationaux et on redouble de vigilance pendant les congés, les vendredis soir et les périodes de remplacement.
+
+      En cas d'escroquerie, on bloque les coordonnées frauduleuses, on suspend les paiements ou demande le retour des fonds et on porte plainte rapidement, l'escroquerie étant punie de cinq ans d'emprisonnement et de trois cent soixante-quinze mille euros d'amende.
+
+      Les variantes sont la fraude au changement de RIB, au faux technicien et au faux ministre.
+
+   C. Conformité, loi de blocage et prestataires.
+
+      La conformité couvre la corruption, le blanchiment, les pratiques anticoncurrentielles, les sanctions économiques, la responsabilité sociale et la protection des données, et les lois extraterritoriales comme le FCPA américain ou le UK Bribery Act peuvent aboutir à des accords DPA ou NPA avec un monitoring payé par l'entreprise.
+
+      Le moniteur peut accéder à la quasi-totalité des données de l'entreprise et représente donc un risque pour sa sécurité économique.
+
+      La loi de blocage du vingt-six juillet mil neuf cent soixante-huit interdit de communiquer à des autorités étrangères des informations portant atteinte à la souveraineté, à la sécurité ou aux intérêts économiques essentiels de la France, et renvoie les demandes vers les canaux de coopération internationale, le Sisse devant être contacté le plus en amont possible.
+
+      Le recours à un prestataire externalisé exige d'identifier les informations partagées, de vérifier sa réputation et la localisation des données, de signer un accord de non-divulgation, d'étendre les obligations de confidentialité à toute la chaîne de sous-traitance et de privilégier un cloud qualifié SecNumCloud.
+
+      L'article dix-sept de la loi Sapin deux impose un dispositif anticorruption aux entreprises d'au moins cinq cents salariés réalisant plus de cent millions d'euros de chiffre d'affaires.
+
+IV. LE NUMÉRIQUE ET LA COMMUNICATION.
+
+      Le poste de travail est protégé par des mots de passe d'au moins douze caractères de types différents, uniques pour chaque usage, des mises à jour, un pare-feu, un antivirus, le chiffrement, la désactivation des exécutions automatiques et un compte sans droits administrateur pour les tâches quotidiennes.
+
+      L'accès au système d'information exige un inventaire des équipements, des comptes nominatifs, peu d'administrateurs, un cloisonnement du réseau, aucune administration depuis Internet et aucune prise réseau accessible en salle d'attente.
+
+      Les supports amovibles personnels sont interdits, les supports professionnels chiffrés et analysés, et le BYOD non contrôlé est proscrit.
+
+      L'infogérance exige un plan d'assurance sécurité et des contrats personnalisés, car les offres génériques couvrent mal les risques du cloud.
+
+      Contre les rançongiciels, la meilleure parade est la sauvegarde régulière sur un support déconnecté, il ne faut jamais payer la rançon, et il faut restreindre les macros et porter plainte.
+
+      La communication doit être centralisée et validée, l'identité des auditeurs vérifiée par carte professionnelle et lettre de mission, l'e-réputation surveillée, et une charte encadre l'usage des réseaux sociaux.
+
+V. À L'EXTÉRIEUR DE L'ENTREPRISE.
+
+      Au quotidien, on utilise un filtre de confidentialité, on désactive le Wi-Fi et le Bluetooth dans les lieux publics, on évite les prises USB publiques à cause du juice jacking et on ne laisse jamais d'ordinateur dans la voiture.
+
+      À l'étranger, on consulte les conseils aux voyageurs du ministère de l'Europe et des Affaires étrangères, on s'inscrit sur Ariane pour les pays à risque, on emporte un matériel dédié, on ne considère pas le coffre de l'hôtel comme sûr et on n'utilise pas les clés USB reçues en cadeau avant analyse.
+
+      Sur un salon professionnel, on prépare les éléments de langage, on expose des répliques anodines, on utilise un ordinateur dédié aux présentations, on reste vigilant en fin de journée quand la fatigue gagne, et on rédige un rapport d'étonnement après l'événement.
+
+POINTS D'ATTENTION.
+
+      La menace d'ingérence économique n'est pas limitée aux seuls pays dits à risque.
+
+      Le Cloud Act américain de deux mille dix-huit permet aux autorités américaines d'exiger des données hébergées par des opérateurs américains partout dans le monde, sans en informer les clients, d'où l'intérêt de prestataires français ou européens.
+
+      Une clause de non-concurrence doit être limitée dans le temps et l'espace et compensée financièrement pour ne pas être annulée.
+
+      Aucune réserve n'est sûre sur un salon, ni le coffre de la voiture, ni celui de l'hôtel, ni la réserve du stand.
+
+EXEMPLES CITÉS.
+
+      Un rapport d'étonnement relate un individu sans bagage, installé à la place d'un cadre dans un TGV Paris-Londres, qui cherchait à orienter la conversation vers ses centres d'intérêt et prétendait vivre à Barcelone, ville d'origine de son épouse.
+
+      Le site nasa point com a longtemps été un site pornographique alors que le site officiel est nasa point org, exemple de cybersquat.
+
+      La fraude au faux ministre consiste à usurper l'identité d'un ministre pour obtenir des fonds prétendument destinés à la libération d'otages.
