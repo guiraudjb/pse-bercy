@@ -1,6 +1,6 @@
 # Inventaire des modules et des médias — pse-bercy
 
-Généré le 02/10/2026 à 07:07 par `scripts/inventaire_medias.py` (28 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
+Généré le 02/10/2026 à 14:20 par `scripts/inventaire_medias.py` (28 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
 
 ## Synthèse
 
@@ -16,7 +16,7 @@ Généré le 02/10/2026 à 07:07 par `scripts/inventaire_medias.py` (28 modules)
 | Paroles | 28 | 0 | 100 % |
 | Chanson | 28 | 0 | 100 % |
 | Podcast local | 1 | 27 | 3 % |
-| Podcast NotebookLM | 27 | 1 | 96 % |
+| Podcast NotebookLM | 28 | 0 | 100 % |
 | Micro-chronique | 1 | 27 | 3 % |
 | Narration fiche | 28 | 0 | 100 % |
 | Audio QCM/flash | 28 | 0 | 100 % |
@@ -25,7 +25,7 @@ Généré le 02/10/2026 à 07:07 par `scripts/inventaire_medias.py` (28 modules)
 
 | Série | Modules | Fiche | QCM | Flash | TP | Icône | Infographie locale | Infographie NotebookLM | Paroles | Chanson | Podcast local | Podcast NotebookLM | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 00 À la une | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 |
+| 00 À la une | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | 02 Bercy Vert | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 |
 | 04 DGFiP : rapport, SDNum, facturation électronique | 3 | 3 | 3 | 3 | 0 | 3 | 0 | 3 | 3 | 3 | 0 | 3 | 0 | 3 | 3 |
 | 05 Stratégie DGFiP 2023-2027 | 8 | 8 | 8 | 8 | 0 | 8 | 0 | 8 | 8 | 8 | 0 | 8 | 0 | 8 | 8 |
@@ -35,7 +35,7 @@ Généré le 02/10/2026 à 07:07 par `scripts/inventaire_medias.py` (28 modules)
 
 | Module | Fiche | QCM | Flash | TP | Icône | Infographie locale | Infographie NotebookLM | Paroles | Chanson | Podcast local | Podcast NotebookLM | Micro-chronique | Narration fiche | Audio QCM/flash |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 00-10 ANSSI - Rapport d'incident sur les cyberattaques ayant touché la DGFiP (2026) | ✅ | 28 | 22 | 9 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 00-10 ANSSI - Rapport d'incident sur les cyberattaques ayant touché la DGFiP (2026) | ✅ | 28 | 22 | 9 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 02-50 Bercy Vert - Stratégie ministérielle Économie durable et décarbonée | ✅ | 20 | 55 | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ |
 | 04-30 DGFiP - Rapport annuel 2024 Transformation et Performance | ✅ | 25 | 60 | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ |
 | 04-40 DGFiP - Schéma directeur du numérique et des SI | ✅ | 30 | 75 | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ |
