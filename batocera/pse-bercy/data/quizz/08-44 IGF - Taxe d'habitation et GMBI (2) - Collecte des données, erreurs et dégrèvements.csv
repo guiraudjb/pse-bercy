@@ -1,0 +1,37 @@
+Combien de modules principaux compte le projet GMBI ?;Deux;Dix;Trois;Cinq;5;GMBI-foncier, GestLOC, GMBI-occupation, GestODL et RODL.
+Quel module recueille les déclarations d'occupation des propriétaires ?;GMBI-occupation;Sitadel;Fidji;GestLOC;2;Il recueille aussi le type et le montant des loyers.
+Quel applicatif permet aux agents des SIP de modifier les déclarations d'occupation ?;GestODL;Iliad;GestLOC;Majic;2;GestLOC sert aux services des impôts fonciers.
+Que recense le référentiel RODL ?;Les comptes bancaires;Les liens entre locaux, propriétaires, occupants et nature d'occupation;Les permis de construire;Les actes notariés;3;Il agrège les déclarations d'occupation.
+Qu'est-ce que Fidji ?;Le cadastre;Une base de l'Insee;La base de la publicité foncière alimentée par les actes notariés;Un module de GMBI;4;Alimentée via Télé@ctes.
+Qu'est-ce que Majic ?;Le fichier des logements vacants;La base des actes notariés;La base de référence des données cadastrales et fiscales des biens;La chaîne de taxation TH;4;Elle contient notamment la valeur locative.
+À quoi sert le flux Sitadel ?;Calculer le chèque énergie;Payer les dégrèvements;Recenser la population;Relancer les propriétaires après une autorisation d'urbanisme;5;Autorisations transmises par les communes.
+Qu'est-ce que l'invariant du local ?;Le numéro de bail;Le numéro fiscal du propriétaire;Le code Iris;L'identifiant cadastral du local, unique dans un département;5;Attribué automatiquement à la création du local.
+Quel article du CGI fonde l'obligation de déclaration d'occupation ?;Article 1418;Article 104 du code civil;Article 1641;Article 1496;2;En vigueur depuis 2023.
+Quels formulaires papier ont été supprimés avec GMBI ?;H1 et H2;2072 et 2031;2042 et 2044;1235-IL et 1236-IL;5;Adressés aux occupants et aux propriétaires.
+Combien de propriétaires sont soumis à la déclaration GMBI ?;6,8 millions;12,1 millions;59,3 millions;3 097;4;Pour 71,4 millions de locaux dans RLOC.
+Combien de grands propriétaires de plus de 200 biens en 2024 ?;3 097;12 100;59 300;200;2;Ils détiennent 12,1 millions de biens.
+Quelle déclaration contient déjà un encart non exploité sur l'identité des locataires ?;La 2044 des revenus fonciers;La 2072;La 1767 bis;La 2042 C;2;Doublon relevé par la mission.
+Quelle part des locaux attendus en déclaration en 2024 est effectivement taxable ?;50 %;27 %;8,7 %;0,7 %;4;Seulement 0,7 % pour les grands propriétaires.
+Quel autre usage des données de TH concerne la loi SRU ?;Le décompte des résidences principales pour le quota de logements sociaux;Le recensement agricole;Le calcul de la TVA;Le vote électronique;2;Article 55 de la loi du 13 décembre 2000.
+Comment est attribué le chèque énergie depuis 2025 ?;Par tirage au sort;Par le point de livraison d'électricité croisé avec le revenu fiscal de référence;Par la déclaration GMBI seule;Par le rôle de TH;3;Un seul chèque par logement.
+Comment s'appelle l'obligation allemande de déclarer son arrivée en commune ?;Council tax;Bürgergeld;Meldepflicht;Grundsteuer;4;Les communes tiennent les registres d'habitants.
+Quel délai d'annonce s'applique en Suisse ?;Un an;De 8 à 14 jours;Trois mois;Aucun;3;Pour tout séjour de plus de trois mois.
+Pourquoi la déclaration domiciliaire n'est-elle pas obligatoire en France ?;Les mairies la refusent;L'UE l'interdit;Elle heurterait la liberté individuelle et d'aller et venir;Elle coûterait trop cher;4;Article 104 du code civil, sauf exceptions.
+Quelle part des locaux d'habitation n'avait fait l'objet d'aucune déclaration d'occupation à fin juin 2025 ?;1 %;90 %;50 %;Environ 10 %, soit 7 millions;5;Défaillance déclarative massive.
+Pour combien de logements loués les occupants ne pouvaient-ils pas être reconnus au 1er janvier 2025 ?;500 000;13,7 millions;2,1 millions, soit 16 % du parc loué;210 000;4;Dont 1,3 million sans aucun occupant reconnu.
+Qui supporte en pratique l'erreur déclarative du propriétaire ?;L'occupant, taxé indûment;Le notaire;Le propriétaire, sanctionné;La commune;2;Aucune sanction n'est appliquée malgré l'article 1770 terdecies.
+Qu'est-ce qu'un cas indécidable ?;Un recours devant le Conseil d'État;Un local sans invariant;Une déclaration ne permettant de conclure ni sur la taxabilité ni sur le redevable;Un impôt prescrit;4;Traité par des règles de gestion présomptives.
+De quand date la conception de la chaîne de taxation de la TH ?;De 2017;De 2023;Des années 1970;Des années 2000;4;Base départementale, inchangée à la création de GMBI.
+Quelle anomalie a été observée lors de la campagne 2023 ?;Une THRS automatique au nom du nouveau propriétaire d'un local vacant;Des avis envoyés en double à tous;Une TVA à 0 %;L'arrêt total de la taxation;2;Comportement imprévisible de la chaîne historique.
+Quel est le montant des dégrèvements de la campagne 2024 ?;1,4 Md€;400 M€;14 Md€;140 M€;2;28 % des recettes des trois taxes, 63 % pour la TLV.
+Quelle part de la TLV était dégrevée en moyenne entre 2015 et 2022 ?;46 %;90 %;5 %;13 %;2;35 % pour la THLV.
+Quel est le premier motif de dégrèvement en 2024 ?;L'erreur de taux;L'erreur cadastrale;L'erreur de statut d'occupation, 568 M€;La vacance involontaire;4;Puis l'identification de l'occupant, 408 M€.
+Quel est le taux des frais de dégrèvement et de non-valeur sur la THRS ?;10 %;2 %;3,6 %;6 %;3;3,6 % pour la THLV (article 1641 du CGI).
+Combien l'État a-t-il supporté de dégrèvements pour des taxes dont il ne perçoit pas la recette en 2024 ?;1,4 Md€;130 M€;74 M€;699 M€;5;THRS et 30 % de la THLV.
+Quand les collectivités supportent-elles le dégrèvement de THLV ?;Toujours;En cas d'erreur de l'État;En cas d'erreur d'appréciation de la vacance;Jamais;4;Sauf si le logement est aussi inhabitable.
+De combien a augmenté le nombre de rôles supplémentaires entre 2022 et 2023 ?;+500 %;+160 %;-20 %;+10 %;3;Impositions correctives croissantes.
+Combien d'ETP consacrés à la taxe d'habitation en 2024 ?;2 000;3 081;30 000;308;3;Pour 4,1 Md€ de recettes, 1,3 M€ par ETP.
+Combien d'individus étaient déclarés dans GMBI en 2024 ?;10 millions;41 millions, soit 60 % de la population;68 millions;53,6 millions;3;53,6 millions après rattachement des foyers fiscaux par l'Insee.
+Quelle publication de l'Insee a été annulée faute de qualité des sources ?;Le PIB trimestriel;Filosofi 2022;L'indice des prix;Le recensement 2025;3;Fideli : 8,1 millions de personnes non rattachées en 2024.
+Quel projet de l'Insee doit produire un univers de référence annuel ?;Fidji;Résil;Sitadel;Lovac;3;Individus, logements et ménages, premiers livrables en 2026.
+Quelle source la mission suggère-t-elle pour repérer les logements vacants ?;Les cartes grises;Les relevés d'eau des piscines;La consommation d'électricité;Les listes électorales;4;Données Enedis, sous réserve de l'avis de la CNIL.

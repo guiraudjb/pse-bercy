@@ -1,0 +1,199 @@
+GESTION ET PARAMÈTRES DE LA TAXE D'HABITATION, RAPPORT DE L'INSPECTION GÉNÉRALE DES FINANCES D'OCTOBRE DEUX MILLE VINGT-CINQ, TROISIÈME PARTIE, FIABILISER LA TAXATION, EXPLORER D'AUTRES OPTIONS ET RÉVISER LES BASES FONCIÈRES PAR LA VALEUR FONCIÈRE À L'IRIS.
+
+LEXIQUE COMPLET.
+
+      Les frais de dégrèvement et de non-valeur sont prélevés par l'État sur le produit des impôts locaux qu'il gère, pour couvrir le risque de dégrèvements, au taux actuel de deux pour cent pour la THRS.
+
+      La déclaration deux mille quarante-deux est la déclaration annuelle de l'impôt sur le revenu, dans laquelle un encart permet désormais aux locataires de déclarer une résidence secondaire.
+
+      L'AFT, adresse fiscale de taxation, est l'adresse au premier janvier déclarée dans la déclaration de revenus.
+
+      La chaîne TH est la chaîne informatique historique de taxation de la taxe d'habitation, et la chaîne TF celle de la taxe foncière, jugée plus robuste.
+
+      La TEOM, taxe d'enlèvement des ordures ménagères, est une taxe annexe à la taxe foncière que la chaîne TF sait déjà adresser à l'occupant pour les fonctionnaires logés.
+
+      La cible THO désignait la chaîne de taxation de l'occupation prévue au lancement de GMBI, qui n'a jamais fait l'objet d'une étude de cadrage.
+
+      La RVLLP est la révision des valeurs locatives des locaux professionnels, engagée en deux mille dix et intégrée aux bases en deux mille dix-sept.
+
+      Le planchonnement réduit de moitié le gain des gagnants d'une révision pour le reverser aux perdants, le lissage étale les variations de cotisation sur dix ans, et le coefficient de neutralisation maintient la part respective des locaux professionnels et d'habitation.
+
+      DVF, demandes de valeurs foncières, est la base publique des transactions immobilières depuis deux mille dix, hors Alsace, Moselle et Mayotte, et DV3F sa version enrichie par le Cerema.
+
+      L'Iris, îlot regroupé pour l'information statistique, est le découpage infra-communal de l'Insee, les Iris d'habitat regroupant entre mille huit cents et cinq mille habitants.
+
+      XGBoost est un modèle d'apprentissage automatique par gradient boosting, retenu par le pôle science des données de l'IGF pour prédire le prix au mètre carré des Iris peu observés.
+
+      Le PSD est le pôle science des données de l'Inspection générale des finances.
+
+COURS DÉTAILLÉ.
+
+I. SANS RÉFORME, DES DÉGRÈVEMENTS DURABLEMENT ÉLEVÉS.
+
+   A. Les projections de la mission.
+
+      La mission suppose un montant moyen de dégrèvement en hausse de deux pour cent par an, deux virgule huit millions d'avis de THRS et six cent soixante mille avis de THLV et de TLV par campagne.
+
+      Dans l'hypothèse d'une part d'avis dégrevés stable à vingt-six virgule sept pour cent, ou dans l'hypothèse plus réaliste d'une baisse de dix pour cent par an, le montant dégrevé resterait supérieur à neuf cents millions d'euros sur les trois campagnes à venir.
+
+      En deux mille vingt-sept, l'État supporterait encore quatre cent quarante-six millions d'euros de dégrèvements pour des taxes dont il ne perçoit pas la recette, pour seulement cent vingt et un millions de frais de gestion.
+
+   B. Rééquilibrer la charge entre État et collectivités.
+
+      La mission écarte le transfert aux collectivités des dégrèvements liés à leurs propres biens, qui ne représenteraient que huit millions d'euros, ainsi que le transfert de certains motifs ou une reprise sur la dotation globale de fonctionnement.
+
+      Elle préconise de porter les frais de dégrèvement de THRS au niveau couvrant la moitié des dégrèvements, comme pour la taxe foncière, soit six pour cent, sans report automatique sur le taux voté par la collectivité.
+
+      Proposition numéro un : augmenter les frais de dégrèvements et de non-valeur prélevés par l'État pour la THRS en faisant passer leur taux de deux à six pour cent.
+
+II. FIABILISER LA COLLECTE DES DONNÉES À ÉQUILIBRES CONSTANTS.
+
+   A. S'appuyer sur la déclaration de revenus.
+
+      Le propriétaire est redevable dans quatre-vingt-dix pour cent des cas de THRS et dans tous les cas de THLV et de TLV, ce qui permet de revoir sa déclaration d'occupation.
+
+      La mission propose d'intégrer le module occupation de GMBI au début de la déclaration deux mille quarante-deux, afin que le propriétaire n'effectue qu'une déclaration et que la résidence principale soit déduite de l'adresse fiscale de taxation.
+
+      Cela suppose une évolution de la loi, le Conseil d'État ayant jugé le dix-neuf novembre que l'adresse déclarée à l'impôt sur le revenu ne vaut pas présomption de résidence principale, ainsi qu'un message bloquant confirmant l'absence de changement d'adresse.
+
+      Proposition numéro deux : pour les propriétaires personnes physiques de résidences secondaires et de logements vacants, fonder la taxation sur une déclaration d'occupation intégrée à la déclaration deux mille quarante-deux.
+
+      Proposition numéro trois : intégrer à la déclaration d'occupation des éléments permettant d'identifier les biens vacants à titre involontaire avant la taxation, alors que quatre-vingt mille six cent soixante avis ont été dégrevés pour ce motif en deux mille vingt-quatre.
+
+   B. Les locataires de résidences secondaires et les SCI.
+
+      Dans dix pour cent des cas, le redevable est un occupant non propriétaire, et le numéro fiscal de trois cent quarante-trois mille neuf cent quatre-vingt-deux locataires de résidences secondaires est aujourd'hui recherché à partir de l'état civil déclaré par les bailleurs.
+
+      La déclaration faisant foi devrait être celle du locataire dans l'encart de la déclaration deux mille quarante-deux, complétée par l'invariant du local, qui figure dans les diagnostics de performance énergétique et les baux depuis le premier janvier deux mille vingt-quatre.
+
+      Proposition numéro quatre : pour les locataires de résidences secondaires, fonder la taxation sur l'encart de la déclaration deux mille quarante-deux enrichi de l'invariant du local.
+
+      Le propriétaire continuerait à déclarer l'état civil de l'occupant pour les croisements, et pourrait préciser si le bien est occupé à titre principal ou secondaire, ce qui découle du type de bail.
+
+      En deux mille vingt-quatre, quatre cent soixante-cinq mille quatre cent quarante et un locataires ont été taxés à la THRS, et dans cinquante-deux pour cent des cas où le bailleur était une personne morale, il s'agissait d'une SCI.
+
+      Proposition numéro cinq : pour les SCI, établir la taxation par défaut des locaux occupés par des associés, sauf à prouver qu'ils sont occupés à titre principal, en fournissant le numéro fiscal de l'associé déjà demandé dans la déclaration deux mille soixante-douze.
+
+   C. Généraliser l'invariant et contrôler.
+
+      Proposition numéro six : généraliser progressivement la donnée d'invariant du local pour fiabiliser l'adresse fiscale de taxation, assimilée à la résidence principale, et faciliter l'identification des résidences secondaires et des logements vacants.
+
+      Proposition numéro sept : mettre en place un plan de contrôle national à grande échelle pour limiter les optimisations déclaratives entre résidence principale et secondaire, visant propriétaires et occupants.
+
+III. FAIRE ÉVOLUER LES CHAÎNES DE TAXATION ET LEUR GOUVERNANCE.
+
+   A. Les scénarios de chaîne.
+
+      Le scénario un conserve une chaîne TH distincte rénovée, le scénario deux adosse la taxation à la chaîne de taxe foncière en visant les propriétaires, et le scénario deux bis l'adosse à la chaîne TF tout en visant l'occupant, sur le modèle de la TEOM des quatre-vingt mille fonctionnaires logés.
+
+      Les scénarios améliorent tous la détection et réduisent les erreurs dans des proportions comparables, mais les scénarios deux et deux bis mutualisent les chaînes et paraissent moins complexes, d'où la préférence pour le deux bis sous réserve d'une étude de cadrage.
+
+      Proposition numéro huit : adosser la taxation des résidences secondaires et des logements vacants à la chaîne de taxe foncière, tout en continuant à asseoir la taxe sur l'occupant.
+
+   B. Tirer les leçons du projet GMBI.
+
+      La Cour des comptes, dans son rapport de janvier deux mille vingt-cinq, a montré les défauts de pilotage de GMBI, notamment l'absence de ressources dédiées, qui a mobilisé les équipes de gestion courante.
+
+      La mission recommande une équipe dédiée, avec un directeur de projet métier en binôme avec un expert des systèmes d'information, rattaché au chef du service de la gestion fiscale, car les sous-directions GF1 et GF3 sont concernées.
+
+      L'adossement à la chaîne foncière est prioritaire en raison du départ prochain à la retraite des agents qui maîtrisent les chaînes historiques, et une étude de cadrage, qui donne des orientations dès six mois et dure environ un an, doit le préciser.
+
+      La première cotation identifie six bureaux et six modules informatiques concernés.
+
+      Proposition numéro neuf : prévoir une gouvernance adaptée pour ce chantier de système d'information d'ampleur.
+
+      Dans les propositions d'évolution, le nombre d'avis de THRS erronés passerait de trois à quatre cent mille à cent à cent soixante mille, mais plusieurs centaines de millions d'euros de dégrèvements subsisteraient.
+
+IV. D'AUTRES OPTIONS QUI MODIFIENT LE CHAMP DE LA TAXATION.
+
+   A. Fusionner les taux des résidences secondaires et des logements vacants.
+
+      Un taux unique supprimerait l'optimisation entre résidence secondaire et logement vacant et les dégrèvements correspondants, seize millions d'euros en deux mille vingt-quatre.
+
+      Dans les communes en zone détendue qui appliquent la THLV, le taux fusionné à recette constante serait en moyenne de vingt et un virgule cinq pour cent, contre vingt-quatre virgule six pour cent pour la THRS et quatorze virgule six pour cent pour la THLV.
+
+      La taxe s'étendrait à toutes les communes en zone détendue, soit environ deux cent vingt mille logements vacants supplémentaires taxés, avec des exonérations conservées pour la vacance involontaire.
+
+      Une fusion de la THLV et de la TLV transférerait aux communes la recette de TLV, trois cent un millions d'euros en deux mille vingt-quatre, et cent soixante et un millions de dégrèvements à la charge de l'État pour une taxe dont il ne percevrait plus la recette.
+
+      Proposition numéro dix : fusionner les taux de taxation des résidences secondaires et des logements vacants, tout en maintenant des exonérations lorsque la vacance est involontaire.
+
+   B. Supprimer la taxe d'habitation au profit d'une surtaxe foncière.
+
+      Cette option remplace la taxe sur l'occupant par une contribution additionnelle à la taxe foncière due par le propriétaire à partir du second logement détenu, comme l'avait proposé le rapport Richard et Bur de mai deux mille dix-huit.
+
+      Elle capterait la rente foncière des multipropriétaires, dont cinquante-huit pour cent sont aisés ou plutôt aisés contre trente-quatre pour cent des ménages, et corrigerait la régressivité de la taxe foncière.
+
+      Elle ferait entrer dans le champ environ sept virgule trois à sept virgule huit millions de logements loués en résidence principale aujourd'hui exonérés, mais supprimerait la déclaration d'occupation à des fins fiscales.
+
+V. RÉVISER LES BASES FONCIÈRES PAR LA VALEUR FONCIÈRE À L'IRIS.
+
+   A. Des valeurs locatives figées depuis mil neuf cent soixante-dix.
+
+      Les valeurs locatives ont été fixées par la révision de mil neuf cent soixante-dix, avec huit catégories de locaux, des locaux de référence et une surface pondérée corrigée selon le confort, l'entretien et la situation.
+
+      Une seule actualisation, pour la période mil neuf cent soixante-dix à mil neuf cent quatre-vingt, a eu lieu, puis un coefficient national annuel, indexé depuis deux mille dix-huit sur l'indice des prix à la consommation harmonisé, soit plus sept virgule un pour cent en deux mille vingt-trois.
+
+      Les vérifications sélectives des locaux s'essoufflent : quarante pour cent des directions locales n'en ont fait aucune en deux mille vingt-trois, et la moyenne est passée de mille cent vingt et une à quatre cent cinquante-huit opérations par département entre deux mille vingt et un et deux mille vingt-trois.
+
+      Le projet Foncier innovant, fondé sur l'intelligence artificielle et les photos aériennes, a permis de taxer plus de vingt mille piscines en deux mille vingt-deux pour environ dix millions d'euros.
+
+   B. Les échecs des révisions passées.
+
+      La révision de mil neuf cent quatre-vingt-dix a échoué car elle aurait augmenté de plus de cinquante pour cent les cotisations de douze pour cent des locaux soumis à la taxe foncière et de sept pour cent de ceux soumis à la taxe d'habitation.
+
+      La révision des locaux professionnels, lancée en deux mille dix, a reposé sur une collecte de loyers en deux mille treize, mais seuls cinquante-deux pour cent des groupes de locaux avaient assez d'observations, puis trente-quatre virgule quatre pour cent lors de l'actualisation de deux mille vingt-deux.
+
+      Les mécanismes atténuateurs ont neutralisé la réforme : soixante-dix-sept pour cent des locaux auraient vu leur valeur locative plus que doubler, contre sept pour cent après neutralisation et planchonnement.
+
+      L'expérimentation sur les locaux d'habitation dans cinq départements aurait augmenté les valeurs du parc privé de cent cinquante et un virgule cinq pour cent, niveau jugé inacceptable.
+
+   C. Une réforme inévitable mais mal engagée.
+
+      La révision reste inévitable pour des raisons politiques, demande constante des élus, pratiques, fragilité des catégories et des locaux de référence, et juridiques, la cour constitutionnelle allemande ayant censuré le dix avril deux mille dix-huit une taxe foncière fondée sur des valeurs trop anciennes.
+
+      L'article cent quarante-six de la loi de finances pour deux mille vingt simplifie la méthode, avec des catégories par surface et nature de local et la fin des locaux de référence, mais elle exige des loyers fiables.
+
+      Or seuls soixante-deux pour cent des locaux déclarés loués dans GMBI disposent d'un loyer, et la collecte obligatoire, prévue en deux mille vingt-trois, a été repoussée à deux mille vingt-cinq et devrait l'être en deux mille vingt-sept pour deux mille trente.
+
+      La mise à jour des systèmes, estimée à un an, n'est pas planifiée, et le rapport au Parlement prévu au plus tard le premier septembre deux mille vingt-six n'est pas lancé.
+
+   D. Le modèle de valeur foncière à l'Iris.
+
+      La mission propose de renoncer au dispositif de deux mille vingt et de fixer un tarif au mètre carré par Iris, distinct pour maisons et appartements, à partir des transactions de la base DVF.
+
+      Ces données sont certifiées par le notaire, actualisées en continu, produites par la DGFiP et publiques sur data.gouv.fr, avec environ un virgule cinq million de consultations depuis janvier deux mille vingt-deux.
+
+      DVF couvre vingt et un virgule quatre pour cent du parc, contre dix-huit virgule trois pour cent pour les loyers de GMBI, avec une meilleure représentativité, et fournit un prix au mètre carré pour dix virgule deux millions de mutations entre deux mille dix et juin deux mille vingt-quatre.
+
+      Le modèle ne valorise pas chaque bien mais une zone, car l'erreur de prédiction est forte aux extrémités et exposerait au contentieux, et car l'assiette doit refléter l'accès aux services publics et aux aménités plutôt que le bâti.
+
+      Un prix moyen est calculé lorsqu'un Iris compte au moins onze mutations entre deux mille dix-huit et deux mille vingt-quatre, sur une moyenne glissante de cinq ans qui lisse les bulles, sinon un modèle XGBoost le prédit.
+
+      L'erreur moyenne de prédiction est de cent soixante-trois euros par mètre carré, soit neuf virgule deux pour cent, pour les maisons et de deux cent soixante-treize euros, soit douze virgule un pour cent, pour les appartements.
+
+      Proposition numéro onze : lancer l'actualisation de la valeur foncière des locaux d'habitation à partir d'un modèle d'estimation des tarifs au mètre carré par Iris fondé sur les transactions foncières.
+
+      La mise en œuvre suppose d'étendre DVF à l'Alsace-Moselle et à Mayotte, de publier le code et les résultats sous forme de cartes ouvertes, sur le modèle du portail allemand BORIS-BW, et d'introduire des lissages simples et temporaires.
+
+      La mission préfère une révision générale à une mise à jour au fil des ventes, pratiquée en Californie avec la Proposition treize, qui favorise la rétention foncière.
+
+      La réforme pourrait s'inscrire dans une refonte globale, comme au Danemark où la réforme de deux mille dix-sept a abaissé le taux de un à zéro virgule six pour cent et créé une surtaxe sur les biens de grande valeur.
+
+POINTS D'ATTENTION.
+
+      Les propositions un à neuf fiabilisent la taxation sans changer ses équilibres, les propositions dix et onze modifient le champ ou l'assiette.
+
+      Le scénario privilégié pour la chaîne est le scénario deux bis, adossement à la taxe foncière avec taxation de l'occupant.
+
+      Le seuil retenu est de onze mutations par Iris, contre quatre observations lors de la révision des locaux professionnels.
+
+      La valeur vénale avait été écartée en deux mille dix faute de données et à cause de sa volatilité, arguments que la mission juge dépassés par DVF et par l'indexation actuelle sur l'inflation.
+
+EXEMPLES CITES.
+
+      Un locataire de résidence secondaire déclare lui-même son logement dans l'encart de la deux mille quarante-deux en indiquant l'invariant du local inscrit dans son bail.
+
+      Une SCI qui loge un associé est taxée par défaut sauf à fournir le numéro fiscal de l'associé qui y réside à titre principal.
+
+      La chaîne de taxe foncière sait déjà adresser la TEOM à l'occupant d'un logement de fonction, modèle du scénario deux bis.

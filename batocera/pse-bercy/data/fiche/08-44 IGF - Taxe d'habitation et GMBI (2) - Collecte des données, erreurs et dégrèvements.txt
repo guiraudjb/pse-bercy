@@ -1,0 +1,209 @@
+GESTION ET PARAMÈTRES DE LA TAXE D'HABITATION, RAPPORT DE L'INSPECTION GÉNÉRALE DES FINANCES D'OCTOBRE DEUX MILLE VINGT-CINQ, DEUXIÈME PARTIE, UNE LOURDE CHARGE DÉCLARATIVE ET UN COÛT ÉLEVÉ POUR L'ÉTAT EN GESTION ET EN DÉGRÈVEMENTS.
+
+LEXIQUE COMPLET.
+
+      GMBI, Gérer mes biens immobiliers, est le projet de la DGFiP qui comporte cinq modules : GMBI-foncier, GestLOC, GMBI-occupation, GestODL et le référentiel RODL.
+
+      GMBI-foncier est le module usager qui dématérialise les déclarations foncières des propriétaires en cas de construction nouvelle ou de changement de destination d'un bien.
+
+      GestLOC est l'applicatif des agents des services départementaux des impôts fonciers qui exploitent ces déclarations pour compléter les valeurs locatives dans Majic.
+
+      GMBI-occupation est le module usager qui recueille les déclarations d'occupation des propriétaires ainsi que le type et le montant des loyers.
+
+      GestODL est l'applicatif des agents des services des impôts des particuliers qui consultent et modifient les déclarations d'occupation.
+
+      RODL, référentiel de l'occupation, agrège les déclarations d'occupation et recense les liens entre locaux, propriétaires, occupants et nature de l'occupation.
+
+      Fidji, fichier informatisé des données juridiques immobilières, est la base de la publicité foncière alimentée par les actes notariés transmis par Télé@ctes.
+
+      Majic, mise à jour des informations cadastrales, est la base de référence des données cadastrales et fiscales des biens, dont la valeur locative.
+
+      RLOC, répertoire des locaux, rapproche l'identité du propriétaire et le numéro invariant du local, et alimente GMBI-occupation depuis deux mille vingt-trois.
+
+      Sitadel est le flux des autorisations d'urbanisme déposées en mairie, capté par la DGFiP pour relancer les propriétaires à l'achèvement des travaux.
+
+      L'invariant du local est l'identifiant cadastral du local, interne à la DGFiP, unique dans un département et attribué automatiquement à sa création.
+
+      Un cas indécidable est une situation où la déclaration d'occupation ne permet de conclure ni sur le caractère taxable du local ni sur l'identité du redevable.
+
+      Un dégrèvement est une réduction totale ou partielle de l'impôt dû, dit législatif lorsqu'il résulte d'une décision de la loi et technique lorsqu'il corrige une erreur d'imposition.
+
+      Un rôle supplémentaire est une imposition corrective émise après le rôle primitif pour les contribuables omis ou insuffisamment imposés, selon l'article mille quatre cent seize du code général des impôts.
+
+      Les FAR, frais d'assiette et de recouvrement, et les FDNV, frais de dégrèvement et de non-valeur, sont prélevés par l'État sur le produit des impôts locaux qu'il gère pour les collectivités.
+
+      Fideli, fichier démographique sur les logements et les individus, et Filosofi, fichier localisé social et fiscal, sont des bases de l'Insee construites à partir de sources fiscales.
+
+      Résil, répertoire statistique des individus et des logements, est le projet de l'Insee qui doit produire chaque année un univers de référence des individus, logements et ménages.
+
+      Lovac est le fichier des logements vacants créé en deux mille vingt par la DHUP, qui alimente la plateforme Zéro Logement Vacant.
+
+COURS DÉTAILLÉ.
+
+I. DE LOURDES COLLECTES DE DONNÉES POUR IDENTIFIER LES OCCUPANTS.
+
+   A. Ce qu'exige une taxation fiable.
+
+      Taxer une résidence secondaire ou un logement vacant suppose d'identifier chaque année le redevable, le statut du local et ses caractéristiques.
+
+      Dans les systèmes d'information, cela revient à rapprocher le numéro fiscal du redevable et le numéro invariant du local, facile pour le propriétaire mais très difficile pour un occupant non propriétaire.
+
+      Au lancement du projet, GMBI devait aussi refondre les chaînes centrales historiques de taxation, travaux qui n'étaient toujours pas engagés à la date de la mission.
+
+   B. Les données du propriétaire et du local.
+
+      L'identité du propriétaire et la description du local proviennent de la publicité foncière, base Fidji, et du cadastre, base Majic, que la base nationale des données patrimoniales recoupe par la référence de parcelle.
+
+      La qualité de la description dans Majic dépend des déclarations des propriétaires lors des changements de consistance, que la DGFiP sollicite grâce au flux Sitadel puis transmet par GestLOC vers Majic et RLOC.
+
+      À l'ouverture de GMBI, de nombreux propriétaires n'ont pas reconnu les informations affichées, en raison des retards de mise à jour de Majic et de la mauvaise communication entre référentiels.
+
+   C. Les données d'occupation.
+
+      Avant GMBI, le lien entre occupant et local était établi chaque année par la DGFiP à partir des déclarations de revenus intégrées dans l'application Iliad, complétées par les formulaires papier mille deux cent trente-cinq IL adressés aux occupants et mille deux cent trente-six IL adressés aux propriétaires, supprimés depuis.
+
+      Désormais, en application de l'article mille quatre cent dix-huit du code général des impôts, tous les propriétaires déclarent dans GMBI-occupation leur résidence principale, leurs résidences secondaires, leurs logements vacants et leurs locaux loués, le loyer étant facultatif selon l'arrêté du quatre décembre deux mille vingt-quatre.
+
+      Ils doivent aussi déclarer l'identité complète des occupants à titre gratuit et des locataires, nom, prénom, date et commune de naissance, soit une dizaine de données à chaque changement d'occupation.
+
+      Cette obligation concerne cinquante-neuf virgule trois millions de propriétaires pour soixante et onze virgule quatre millions de locaux, avec environ six virgule huit millions de déménagements par an.
+
+      Les trois mille quatre-vingt-dix-sept grands propriétaires de plus de deux cents biens doivent renseigner les occupants de douze virgule un millions de biens, avec un fichier annexe limité à deux occupants.
+
+      Ces données doublonnent en partie l'encart sur l'identité des locataires de la déclaration deux mille quarante-quatre des revenus fonciers, qui n'est pas exploité, et la déclaration des enfants n'est plus attendue.
+
+      Au total, seuls huit virgule sept pour cent des locaux pour lesquels une déclaration était attendue en deux mille vingt-quatre sont effectivement taxables, et zéro virgule sept pour cent pour les grands propriétaires.
+
+   D. Des données utiles bien au-delà de la fiscalité.
+
+      Les données de taxe d'habitation servaient aussi au chèque énergie, au contrôle de la part minimale de logements sociaux de la loi SRU et au dégrèvement des propriétaires économiquement faibles.
+
+      Pour l'Insee, elles servaient au recensement, au calcul de la population des communes de moins de dix mille habitants, à Fideli, base de sondage des enquêtes, et à la définition du contour des ménages utilisée par Filosofi.
+
+      Depuis deux mille vingt-cinq, le chèque énergie est attribué en croisant le point de livraison d'électricité avec le revenu fiscal de référence du titulaire du contrat.
+
+      Ces autres usages expliquent qu'on cherche encore à connaître tous les occupants, au-delà du seul redevable.
+
+   E. Un modèle peu répandu en Europe.
+
+      En Allemagne, Autriche, Belgique, Suisse, aux Pays-Bas ou au Danemark, l'inventaire des logements et de leurs occupants relève des communes, grâce à l'obligation de déclarer son arrivée en mairie, appelée Meldepflicht.
+
+      En Suisse, le délai d'annonce est de huit à quatorze jours pour tout séjour de plus de trois mois, et les bailleurs doivent renseigner l'administration si l'occupant a manqué à ses obligations.
+
+      Au Royaume-Uni, la council tax est entièrement locale et repose sur la déclaration de l'occupant à son autorité locale lors de son emménagement.
+
+      En France, la déclaration de domicile en mairie de l'article cent quatre du code civil n'est pas obligatoire, les propositions de la rendre obligatoire s'étant heurtées à la liberté d'aller et venir.
+
+II. DES ERREURS DE TAXATION DE PLUS EN PLUS NOMBREUSES DEPUIS GMBI.
+
+   A. Sous-déclaration et données erronées.
+
+      À fin juin deux mille vingt-cinq, environ dix pour cent des locaux d'habitation, soit sept millions, n'avaient fait l'objet d'aucune déclaration d'occupation depuis deux mille vingt-trois.
+
+      La part des locaux des petits propriétaires mis à jour depuis la dernière campagne, huit pour cent, est inférieure de trois points au taux annuel de déménagement, onze pour cent, si bien que l'occupation est erronée pour au moins deux millions de locaux.
+
+      Au premier janvier deux mille vingt-cinq, les occupants ne pouvaient pas être reconnus pour deux virgule un millions de logements loués, soit seize pour cent du parc locatif privé et social.
+
+      Aucune sanction n'est appliquée malgré l'article mille sept cent soixante-dix terdecies, et l'erreur du propriétaire retombe sur l'occupant, par exemple l'ancien locataire taxé à la THRS parce que son départ n'a pas été déclaré.
+
+      Selon l'annexe deux, la situation connue dans RODL est erronée ou absente pour au moins neuf virgule deux millions de locaux.
+
+   B. Des règles de gestion imprévisibles et une chaîne obsolète.
+
+      Les cas indécidables sont traités par des règles de gestion qui reflètent des présomptions de l'administration centrale.
+
+      Ces règles sont appliquées par la chaîne de taxation de la taxe d'habitation, conçue dans les années soixante-dix sur une base départementale et restée inchangée à la création de GMBI.
+
+      Le lot trois B de la méthode MAREVA de mai deux mille vingt-quatre prévoyait pourtant la taxation de l'occupation à partir de GMBI, objectif abandonné au profit d'un mode mixte conservant les chaînes centrales.
+
+      Certaines règles anciennes, mal documentées et méconnues des services, continuent de s'appliquer, rendant la chaîne imprévisible : en deux mille vingt-trois, le changement de propriétaire d'un local vacant a déclenché une THRS automatique au nom du nouveau propriétaire.
+
+      Lors de la campagne suivante, des avis de TLV ont été émis pour des locaux dont l'occupation était pourtant correctement déclarée.
+
+      La DGFiP conduit avant chaque campagne des tests en réel sur quelques départements, cinq sessions dans trois départements pour deux mille vingt-cinq, sans garantir l'absence d'effets de bord.
+
+III. LE COÛT HUMAIN ET FINANCIER DES DÉGRÈVEMENTS.
+
+   A. Des dégrèvements déjà élevés avant GMBI.
+
+      Entre deux mille quinze et deux mille vingt-deux, les montants dégrevés représentaient en moyenne quarante-six pour cent de la TLV et trente-cinq pour cent de la THLV.
+
+      En deux mille vingt-deux, seule campagne exonérant totalement les résidences principales menée sans GMBI, les dégrèvements de THRS atteignaient treize pour cent des avis émis.
+
+   B. Une forte hausse depuis GMBI.
+
+      Pour la campagne deux mille vingt-quatre, arrêtée au trente juin deux mille vingt-cinq, les dégrèvements atteignent un virgule quatre milliard d'euros, soit vingt-huit pour cent des recettes des trois taxes et jusqu'à soixante-trois pour cent pour la TLV.
+
+      Sur quatre virgule six millions d'avis, un virgule deux million de contentieux ont été traités, contre un virgule un million pour la campagne deux mille vingt-trois, en hausse de huit pour cent.
+
+      Entre les deux campagnes, les contentieux de THRS ont baissé de quarante pour cent en volume tandis que ceux de THLV et de TLV ont fortement augmenté.
+
+      Les principaux motifs sont l'erreur de statut d'occupation, cinq cent soixante-huit millions d'euros, et l'erreur d'identification de l'occupant, quatre cent huit millions, les erreurs cadastrales ne pesant que soixante-cinq millions.
+
+      Les causes de vacance involontaire ont coûté soixante-douze millions d'euros pour quatre-vingt mille six cent soixante avis, le motif ne pouvant pas être déclaré dans GMBI, et deux cent soixante-deux millions de dégrèvements n'ont pas de motif renseigné.
+
+   C. Une charge supportée surtout par l'État.
+
+      Selon l'article mille neuf cent soixante du code général des impôts, les dégrèvements sont en principe à la charge de l'État, qui prélève en contrepartie des frais de dégrèvement et de non-valeur, de deux pour cent pour la THRS et trois virgule six pour cent pour la THLV.
+
+      L'État prélève aussi des frais d'assiette et de recouvrement d'un pour cent pour la THRS et de quatre virgule quatre pour cent pour la THLV, soit cent trente millions d'euros de frais de gestion en deux mille vingt-quatre.
+
+      Par exception, les collectivités supportent les dégrèvements de THLV pour mauvaise appréciation de la vacance, sauf si le logement est aussi inhabitable, et ceux de la majoration de THRS pour double résidence professionnelle.
+
+      En deux mille vingt-quatre, l'État a supporté un virgule trois milliard d'euros de dégrèvements, dont six cent quatre-vingt-dix-neuf millions pour la THRS et la THLV dont il ne perçoit pas la recette, les collectivités n'en supportant que soixante-quatorze millions.
+
+      Les frais de dégrèvement de THRS, soixante-seize millions d'euros, ne couvrent que onze pour cent des montants dégrevés, contre la moitié pour la taxe foncière.
+
+   D. Rôles supplémentaires et effectifs.
+
+      Le nombre de rôles supplémentaires a augmenté de cent soixante pour cent entre les campagnes deux mille vingt-deux et deux mille vingt-trois.
+
+      En deux mille vingt-quatre, soixante-dix mille cinq cent trente-six impositions supplémentaires de THRS ont été émises pour cent quatre millions d'euros, dont près de douze mille visant des personnes morales.
+
+      La suppression de la THRP a permis d'économiser deux mille équivalents temps plein, mais trois mille quatre-vingt-un y étaient encore consacrés en deux mille vingt-quatre pour quatre virgule un milliards d'euros de recettes.
+
+      Avec un virgule trois million d'euros de recette par agent, la taxe d'habitation est l'impôt des particuliers le moins productif, son coût de gestion n'ayant baissé que de quarante-six pour cent quand sa recette baissait de quatre-vingt-cinq pour cent entre deux mille dix-sept et deux mille vingt-trois.
+
+IV. LES CONSÉQUENCES POUR LA STATISTIQUE PUBLIQUE.
+
+   A. Une connaissance dégradée des ménages.
+
+      En juin deux mille vingt-cinq, quatre-vingt-dix pour cent du parc avait fait l'objet d'une déclaration dans GMBI, mais seuls quarante et un millions d'individus étaient déclarés, soit soixante pour cent de la population.
+
+      La plupart des logements déclarés n'ont qu'un occupant, alors qu'un logement compte en moyenne deux virgule quinze habitants, les colocataires, enfants majeurs et conjoints non mariés étant souvent omis.
+
+      En rattachant les membres des foyers fiscaux, l'Insee passe de quarante et un à cinquante-trois virgule six millions d'individus.
+
+      Le nombre de personnes non rattachées à un logement dans Fideli est passé de quatre virgule sept millions en deux mille vingt-deux à huit virgule un millions en deux mille vingt-quatre, ce qui a conduit à annuler la diffusion de Filosofi deux mille vingt-deux.
+
+   B. Le projet Résil.
+
+      Résil doit produire chaque année la liste des individus résidant au premier janvier, celle des logements avec leur statut principal, secondaire ou vacant, et celle des ménages.
+
+      Il sera nourri par RLOC et GMBI-occupation, complétés par les données de la CNAF, de la MSA, de la DSN, de PASRAU et des inscriptions dans l'enseignement supérieur, avec de premiers livrables attendus en deux mille vingt-six.
+
+   C. La connaissance des logements vacants.
+
+      La source fiscale est peu fiable pour mesurer la vacance, et la mise à jour de Lovac et de la plateforme Zéro Logement Vacant a subi plusieurs ruptures de série depuis GMBI.
+
+      Zéro Logement Vacant a permis à deux mille utilisateurs de contacter près de cent quinze mille propriétaires de logements vacants ou de passoires énergétiques.
+
+      La mission suggère de repérer les logements suspectés vacants grâce à une très faible consommation d'électricité transmise par Enedis, sous réserve de l'avis de la CNIL, et de mobiliser les données de taxe de séjour pour les meublés de tourisme.
+
+POINTS D'ATTENTION.
+
+      Le propriétaire est redevable dans quatre-vingt-dix pour cent des cas de THRS et dans tous les cas de THLV et de TLV.
+
+      L'erreur déclarative du propriétaire n'a pas de conséquence pour lui mais retombe sur l'occupant.
+
+      L'État supporte des dégrèvements pour des taxes dont la recette revient aux collectivités, ce qui crée un déséquilibre budgétaire.
+
+      Les chiffres de dégrèvements de la campagne deux mille vingt-quatre sont provisoires, les réclamations restant possibles jusqu'au trente et un décembre deux mille vingt-cinq.
+
+EXEMPLES CITES.
+
+      Un locataire qui déménage et met à jour son adresse fiscale peut être taxé à la THRS si son ancien propriétaire ne déclare pas son départ dans GMBI.
+
+      Un local vacant revendu en deux mille vingt-trois a déclenché une THRS automatique au nom du nouveau propriétaire.
+
+      La Suisse impose aux habitants de s'annoncer à leur commune en huit à quatorze jours, quand la France confie la connaissance de l'occupation à l'administration fiscale centrale.
