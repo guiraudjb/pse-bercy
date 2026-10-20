@@ -1,25 +1,25 @@
 # Inventaire des modules et des médias — pse-bercy
 
-Généré le 07/10/2026 à 22:18 par `scripts/inventaire_medias.py` (28 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
+Généré le 19/10/2026 à 07:26 par `scripts/inventaire_medias.py` (31 modules). ✅ présent, ❌ absent ; pour QCM, flashcards et TP, nombre d'éléments (0 = absent).
 
 ## Synthèse
 
 | Contenu | Présents | Absents | Couverture |
 |---|---:|---:|---:|
-| Fiche | 28 | 0 | 100 % |
-| QCM | 28 | 0 | 100 % |
-| Flash | 28 | 0 | 100 % |
-| TP | 1 | 27 | 3 % |
-| Icône | 28 | 0 | 100 % |
-| Infographie locale | 28 | 0 | 100 % |
-| Infographie NotebookLM | 28 | 0 | 100 % |
-| Paroles | 28 | 0 | 100 % |
-| Chanson | 28 | 0 | 100 % |
-| Podcast local | 28 | 0 | 100 % |
-| Podcast NotebookLM | 28 | 0 | 100 % |
-| Micro-chronique | 1 | 27 | 3 % |
-| Narration fiche | 28 | 0 | 100 % |
-| Audio QCM/flash | 28 | 0 | 100 % |
+| Fiche | 31 | 0 | 100 % |
+| QCM | 31 | 0 | 100 % |
+| Flash | 31 | 0 | 100 % |
+| TP | 1 | 30 | 3 % |
+| Icône | 31 | 0 | 100 % |
+| Infographie locale | 31 | 0 | 100 % |
+| Infographie NotebookLM | 31 | 0 | 100 % |
+| Paroles | 31 | 0 | 100 % |
+| Chanson | 31 | 0 | 100 % |
+| Podcast local | 31 | 0 | 100 % |
+| Podcast NotebookLM | 31 | 0 | 100 % |
+| Micro-chronique | 1 | 30 | 3 % |
+| Narration fiche | 31 | 0 | 100 % |
+| Audio QCM/flash | 31 | 0 | 100 % |
 
 ## Par série
 
@@ -29,7 +29,7 @@ Généré le 07/10/2026 à 22:18 par `scripts/inventaire_medias.py` (28 modules)
 | 02 Bercy Vert | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 |
 | 04 DGFiP : rapport, SDNum, facturation électronique | 3 | 3 | 3 | 3 | 0 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 0 | 3 | 3 |
 | 05 Stratégie DGFiP 2023-2027 | 8 | 8 | 8 | 8 | 0 | 8 | 8 | 8 | 8 | 8 | 8 | 8 | 0 | 8 | 8 |
-| 08 Directions de Bercy : rapports d'activité | 15 | 15 | 15 | 15 | 0 | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 0 | 15 | 15 |
+| 08 Directions de Bercy : rapports d'activité | 18 | 18 | 18 | 18 | 0 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 0 | 18 | 18 |
 
 ## Détail par module
 
@@ -63,3 +63,6 @@ Généré le 07/10/2026 à 22:18 par `scripts/inventaire_medias.py` (28 modules)
 | 08-40 Rapport d'activité Tracfin 2025 - Tome 1 | ✅ | 40 | 30 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | 08-41 SISSE - La sécurité économique au quotidien en 29 fiches pratiques | ✅ | 38 | 27 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | 08-42 DGE et ANSSI - La cybersécurité pour les TPE et PME en 13 questions | ✅ | 35 | 18 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| 08-43 IGF - Taxe d'habitation et GMBI (1) - Une taxe résiduelle entre incitation et rendement | ✅ | 32 | 18 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| 08-44 IGF - Taxe d'habitation et GMBI (2) - Collecte des données, erreurs et dégrèvements | ✅ | 37 | 20 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| 08-45 IGF - Taxe d'habitation et GMBI (3) - Onze propositions et révision des bases foncières | ✅ | 37 | 20 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
