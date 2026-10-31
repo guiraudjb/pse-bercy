@@ -1,0 +1,529 @@
+LES CONCEPTS FISCAUX DE LA DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES, LEXIQUE DE L'ÉDITION DE MARS DEUX MILLE VINGT-DEUX, LES NOTIONS D'ASSIETTE, DE RÉGIMES D'IMPOSITION, DE FISCALITÉ LOCALE, DE PRÉLÈVEMENT À LA SOURCE, DE RECOUVREMENT ET DE CONTENTIEUX.
+
+LEXIQUE COMPLET.
+
+      L'abattement désigne une diminution pratiquée sur le montant de l'assiette imposable.
+
+      L'exonération désigne un allègement total ou partiel des bases d'imposition qui se traduit par une perte de recettes fiscales, et qui peut être de droit, facultative ou de droit compensée par l'État.
+
+      Le crédit d'impôt désigne une somme soustraite de l'impôt dû qui, si l'impôt est nul ou inférieur au crédit, peut être remboursée en tout ou partie.
+
+      La réduction d'impôt désigne une somme soustraite de l'impôt dû qui ne peut jamais donner lieu à remboursement ni, sauf exceptions, à report sur les années suivantes.
+
+      Le dégrèvement désigne la suppression ou l'atténuation d'un impôt prononcée par l'administration, d'office, par voie contentieuse ou par voie gracieuse.
+
+      La décharge désigne la suppression de la totalité de l'imposition prononcée par l'administration après une contestation par voie contentieuse.
+
+      L'impôt direct désigne un impôt payé et supporté par la même personne, comme l'impôt sur le revenu.
+
+      L'impôt indirect désigne un impôt qui distingue le redevable, qui verse l'impôt, du contribuable effectif, qui le supporte, la taxe sur la valeur ajoutée en étant le principal exemple.
+
+      Le redevable désigne une personne passible d'un impôt.
+
+      Le foyer fiscal désigne l'ensemble des personnes dont les ressources font l'objet d'une seule déclaration de revenus, c'est-à-dire le déclarant, son conjoint et les personnes à charge.
+
+      La part désigne le chiffre qui tient compte de la situation et des charges de famille et qui divise le revenu imposable pour le calcul de l'impôt sur le revenu.
+
+      Les revenus catégoriels désignent les catégories de revenus déclarés en matière d'impôt sur le revenu, des traitements et salaires jusqu'aux bénéfices non commerciaux.
+
+      Le revenu brut global désigne la somme des revenus catégoriels nets diminuée des déficits des années antérieures, avant imputation des charges à déduire du revenu.
+
+      La CET, contribution économique territoriale, désigne l'impôt économique local créé le premier janvier deux mille dix, composé de la CFE et de la CVAE.
+
+      La CFE, cotisation foncière des entreprises, est l'imposition locale des personnes qui exercent à titre habituel une activité professionnelle non salariée, assise sur la valeur locative des biens passibles de taxe foncière et recouvrée par voie de rôle.
+
+      La CVAE, cotisation sur la valeur ajoutée des entreprises, est due par les redevables de la CFE dont le chiffre d'affaires hors taxes dépasse cent cinquante-deux mille cinq cents euros et elle est liquidée spontanément par les entreprises.
+
+      L'IFER, imposition forfaitaire sur les entreprises de réseaux, est l'imposition qui frappe certaines installations comme les éoliennes, les centrales, les stations radioélectriques ou les transformateurs électriques, au profit des collectivités locales.
+
+      La valeur locative désigne la valeur locative cadastrale, c'est-à-dire le loyer annuel théorique qu'un immeuble bâti ou non bâti pourrait produire s'il était loué à des conditions normales.
+
+      La valeur vénale désigne la somme estimée contre laquelle un immeuble serait échangé entre un acheteur et un vendeur consentants, dans une transaction équilibrée et sans pression.
+
+      Le rôle désigne le titre exécutoire établi par l'administration fiscale, en vertu duquel les comptables publics recouvrent certains impôts directs, et qui se présente comme une liste de contribuables composée d'articles.
+
+      L'article de rôle désigne l'élément du rôle qui indique pour chaque contribuable son identification, ses bases, la liquidation de l'impôt et le montant à payer.
+
+      La cote désigne l'élément détaillé d'un article, par exemple la cote de taxe foncière bâtie au sein d'un article de taxes foncières.
+
+      L'homologation désigne l'acte qui rend les rôles exécutoires et permet aux comptables publics d'en assurer le recouvrement.
+
+      L'AMR, avis de mise en recouvrement, est le titre exécutoire par lequel le comptable public authentifie une créance fiscale non acquittée à la date d'exigibilité, ce qui lui permet d'engager le recouvrement forcé.
+
+      La mise en recouvrement désigne la date à partir de laquelle le comptable public est chargé de recouvrer l'impôt.
+
+      La prise en charge désigne, pour les impôts sur rôle, la transformation d'un titre de recettes en pièce comptable constatant les produits à recouvrer.
+
+      L'ATD, avis à tiers détenteur, désigne l'acte de poursuite de masse permettant au comptable de la DGFiP d'appréhender sur simple demande les fonds détenus par un tiers, banquier ou employeur, pour le compte d'un redevable.
+
+      La SATD, saisie administrative à tiers détenteur, désigne la procédure, prévue à l'article L. deux cent soixante-deux du livre des procédures fiscales, par laquelle les comptables publics saisissent les créances que les contribuables défaillants détiennent sur des tiers.
+
+      L'action de masse désigne une action de recouvrement forcé que le comptable public peut engager sans l'intervention du juge.
+
+      L'action lourde désigne une action de recouvrement forcé qui ne peut être engagée qu'avec l'intervention du juge, comme la saisie immobilière.
+
+      Le PAS, prélèvement à la source, désigne le mode de recouvrement contemporain de l'impôt sur le revenu, entré en vigueur en deux mille dix-neuf.
+
+      Le CIMR, crédit d'impôt modernisation du recouvrement, est le crédit qui efface l'impôt dû sur les revenus courants de deux mille dix-huit, année de transition vers le prélèvement à la source.
+
+      Le CIPS, crédit d'impôt prélèvements sociaux, est le crédit qui annule les prélèvements sociaux sur les revenus de deux mille dix-huit, dans les mêmes conditions que le CIMR.
+
+      La DSN, déclaration sociale nominative, désigne la déclaration qui remplace progressivement les déclarations sociales et alimente aussi le système d'information de la DGFiP pour l'impôt sur le revenu.
+
+      La déclaration PASRAU, prélèvement à la source revenus autres, désigne le support déclaratif des revenus autres que les salaires et, de manière transitoire, des salaires des employeurs publics non encore entrés dans la DSN.
+
+      L'IFI, impôt sur la fortune immobilière, est l'impôt annuel dû par une personne physique dont le patrimoine immobilier net dépasse un million trois cent mille euros au premier janvier, et qui remplace l'ISF depuis deux mille dix-huit.
+
+      L'ISF, impôt de solidarité sur la fortune, désigne l'ancien impôt annuel sur le patrimoine, supprimé par la loi de finances pour deux mille dix-huit.
+
+      La CEHR, contribution exceptionnelle sur les hauts revenus, est une contribution additionnelle à l'impôt sur le revenu due lorsque le revenu fiscal de référence dépasse deux cent cinquante mille euros pour une personne seule ou cinq cent mille euros pour un couple.
+
+      La franchise en base de TVA désigne le dispositif qui dispense les petites entreprises de la déclaration et du paiement de la TVA sur leurs ventes et prestations.
+
+      La TVA nette désigne la différence entre la TVA collectée et la TVA déductible.
+
+      Le micro-entrepreneur désigne, depuis deux mille seize, l'ancien auto-entrepreneur, qui relève du régime micro social avec un prélèvement libératoire des cotisations sociales.
+
+      La CIF, Commission des infractions fiscales, est l'organisme dont l'avis favorable est requis avant que l'administration fiscale ne dépose une plainte pour fraude fiscale.
+
+      Le FEC, fichier des écritures comptables, est le fichier remis par l'entreprise à partir duquel l'administration conduit un examen de comptabilité depuis le bureau.
+
+      L'ANTAI, Agence nationale du traitement automatisé des infractions, est l'agence qui émet le titre exécutoire du forfait de post-stationnement majoré.
+
+      L'EPCI, établissement public de coopération intercommunale, désigne une intercommunalité qui peut, lorsqu'elle est à fiscalité propre, voter certains impôts locaux.
+
+COURS DÉTAILLÉ.
+
+I. NATURE DE L'IMPÔT, ASSIETTE ET ALLÈGEMENTS.
+
+   A. Impôt direct et impôt indirect.
+
+      L'impôt direct est payé et supporté par la même personne, comme l'impôt sur le revenu ou la taxe d'habitation.
+
+      L'impôt indirect distingue celui qui le verse, le redevable, de celui qui le supporte réellement, le contribuable effectif, et la taxe sur la valeur ajoutée en est le principal exemple.
+
+      Les impôts directs recouvrés par voie de rôle sont l'impôt sur le revenu et les prélèvements sociaux sur le patrimoine, l'impôt sur la fortune immobilière et les impôts directs locaux.
+
+      Les impôts directs locaux sur rôle comprennent la taxe d'habitation, la taxe d'habitation sur les logements vacants, la taxe annuelle sur les logements vacants, les taxes foncières sur les propriétés bâties et non bâties, ainsi que la cotisation foncière des entreprises avec ses taxes additionnelles, dont la taxe d'enlèvement des ordures ménagères et l'imposition forfaitaire sur les entreprises de réseaux.
+
+      Les autres impôts directs sont recouvrés sans rôle, par voie d'avis de mise en recouvrement, notamment l'impôt sur les sociétés, la cotisation sur la valeur ajoutée des entreprises, la taxe sur les véhicules de sociétés, la taxe sur les salaires et la taxe sur les locaux à usage de bureaux en Île-de-France.
+
+   B. Allègements de l'assiette et de l'impôt.
+
+      L'abattement diminue l'assiette imposable, tandis que l'exonération allège totalement ou partiellement les bases et peut être de droit, facultative ou de droit compensée par l'État.
+
+      Le crédit d'impôt et la réduction d'impôt se soustraient tous deux de l'impôt dû et sont généralement incitatifs.
+
+      La différence essentielle est que le crédit d'impôt est remboursé en tout ou partie lorsque l'impôt est nul ou inférieur au crédit, alors que la réduction d'impôt n'est jamais restituée.
+
+      Le crédit d'impôt recherche et le crédit d'impôt pour l'emploi d'un salarié à domicile sont des exemples de crédits d'impôt.
+
+      Les réductions d'impôt portent par exemple sur l'investissement locatif neuf, comme les dispositifs Scellier ou Duflot, sur les investissements forestiers, les actions Sofica, l'hébergement d'une personne dépendante, les frais de scolarisation, les parts de petites et moyennes entreprises, les dons et le mécénat.
+
+   C. Dégrèvement, décharge et réclamations.
+
+      Le dégrèvement supprime ou atténue un impôt, soit d'office, soit par voie contentieuse sous forme de décharge ou de réduction, soit par voie gracieuse sous forme de remise ou de modération.
+
+      En comptabilité, le dégrèvement n'est pas une diminution des prises en charge mais une recette d'ordre.
+
+      La décharge est la suppression de la totalité de l'imposition après une contestation par voie contentieuse.
+
+      La réclamation contentieuse conteste le montant des impositions, avant de porter le litige, le cas échéant, devant le juge de l'impôt.
+
+      La réclamation gracieuse demande une mesure de bienveillance, c'est-à-dire l'abandon ou l'atténuation des impositions ou des pénalités.
+
+II. L'IMPÔT SUR LE REVENU ET SES CATÉGORIES.
+
+   A. Le foyer fiscal et le calcul.
+
+      L'impôt sur le revenu est établi sur l'ensemble des revenus catégoriels perçus par les personnes physiques au cours d'une année déterminée.
+
+      Le foyer fiscal regroupe le déclarant, son conjoint et les personnes à charge, et l'impôt porte sur l'ensemble de leurs revenus.
+
+      La part tient compte de la situation et des charges de famille et divise le revenu imposable pour calculer l'impôt.
+
+      Les revenus déclarés sont les revenus indiqués sur la déclaration avant toute déduction.
+
+      Le revenu brut global est la somme des revenus catégoriels nets, par exemple les salaires après la déduction de dix pour cent, diminuée des déficits antérieurs et calculée avant les charges à déduire comme les pensions alimentaires versées.
+
+      Le revenu moyen est le revenu net imposable total divisé par le nombre d'articles.
+
+      Depuis les revenus de deux mille dix-huit, la déclaration en ligne est obligatoire si la résidence principale dispose d'un accès à internet, la déclaration papier restant possible pour les personnes qui ne peuvent pas déclarer par internet.
+
+   B. Les revenus catégoriels.
+
+      Les catégories sont les traitements et salaires, les pensions et retraites, les gains de cession de valeurs mobilières et droits sociaux, les revenus de capitaux mobiliers, les revenus fonciers, les bénéfices agricoles, les bénéfices industriels et commerciaux et les bénéfices non commerciaux.
+
+      Les bénéfices agricoles sont les revenus que l'exploitation des biens ruraux procure aux propriétaires exploitants, aux fermiers ou aux métayers.
+
+      Les bénéfices industriels et commerciaux proviennent de l'exercice habituel d'une profession commerciale, industrielle ou artisanale par une personne physique, ainsi que des locations en meublé.
+
+      Les bénéfices non commerciaux regroupent les professions libérales, les charges et offices comme les notaires et les huissiers, et les profits qui ne relèvent d'aucune autre catégorie, comme les opérations de bourse ou les produits des inventeurs.
+
+      Les revenus de capitaux mobiliers sont produits par des placements d'argent, comme les actions ou les obligations.
+
+      Les revenus fonciers proviennent de la location de propriétés bâties ou non bâties lorsqu'ils ne sont pas compris dans les bénéfices d'une entreprise ou d'une profession.
+
+      Les pensions et rentes sont des allocations périodiques, souvent versées à vie, en principe soumises à l'impôt sur le revenu.
+
+   C. Plus-values.
+
+      La plus-value ou la moins-value est l'augmentation ou la diminution de la valeur d'un bien mobilier ou immobilier, calculée au moment de sa vente.
+
+      En fiscalité professionnelle, la plus-value à long terme porte sur des biens détenus depuis au moins deux ans et peut bénéficier d'un taux réduit.
+
+      La plus-value à taux proportionnel concerne notamment les ventes de biens, la clôture d'un plan d'épargne en actions avant cinq ans et les gains de levée d'options sur titres, imposés à différents taux, de zéro à dix-neuf pour cent.
+
+   D. Foyers imposables et foyers imposés.
+
+      Un foyer imposable a un impôt strictement positif avant imputation des crédits et réductions d'impôt, tandis qu'un foyer non imposable a un impôt nul avant ces imputations.
+
+      Un foyer imposé a un impôt strictement positif mis en recouvrement, tandis qu'un foyer non imposé n'a aucun montant mis en recouvrement.
+
+III. LE PRÉLÈVEMENT À LA SOURCE.
+
+   A. Principe.
+
+      Entré en vigueur en deux mille dix-neuf, le prélèvement à la source fait payer l'impôt sur le revenu en même temps que la perception des revenus.
+
+      Pour les salaires, les pensions et les revenus de remplacement, comme les indemnités journalières ou les allocations de chômage, la retenue à la source est opérée chaque mois par le verseur, employeur, caisse de retraite ou organisme, avec un taux calculé et transmis par l'administration fiscale.
+
+      Pour les revenus sans tiers collecteur, l'administration prélève directement sur le compte bancaire des acomptes calculés sur la dernière déclaration, chaque mois ou chaque trimestre sur option.
+
+      Ces acomptes concernent les revenus des travailleurs indépendants et des agriculteurs, les revenus fonciers, les rentes viagères à titre onéreux, les pensions alimentaires, les revenus des gérants et associés de l'article soixante-deux du code général des impôts et certains revenus de source étrangère.
+
+   B. L'année de transition deux mille dix-huit.
+
+      Le crédit d'impôt modernisation du recouvrement, calculé automatiquement, efface l'impôt dû sur les revenus courants perçus en deux mille dix-huit.
+
+      Les revenus exceptionnels et les revenus hors du champ du prélèvement, comme les revenus de capitaux mobiliers et les plus-values mobilières, perçus en deux mille dix-huit, restent imposés en deux mille dix-neuf selon les règles habituelles.
+
+      Le crédit d'impôt prélèvements sociaux annule de la même manière les prélèvements sociaux dus sur les revenus de deux mille dix-huit.
+
+   C. Les déclarations des collecteurs.
+
+      La déclaration sociale nominative, mesure de simplification majeure pour les entreprises, remplace les déclarations sociales et transmet à la DGFiP la rémunération nette fiscale et le prélèvement à la source.
+
+      La déclaration PASRAU collecte les mêmes données pour les revenus autres que les salaires et, à titre transitoire, pour les salaires des employeurs publics.
+
+      La retenue à la source des non-résidents est distincte : elle porte sur des revenus de source française versés à des personnes domiciliées hors de France, comme les revenus de capitaux mobiliers, les droits d'auteur, les produits de la propriété industrielle, les honoraires non commerciaux, les salaires et les pensions.
+
+IV. LES RÉGIMES D'IMPOSITION DES ENTREPRISES ET LA TVA.
+
+   A. Les régimes micro.
+
+      Le régime micro-BIC est le régime de droit commun des entreprises industrielles, commerciales ou artisanales dont le chiffre d'affaires hors taxes de l'année précédente ou de l'avant-dernière année ne dépasse pas cent soixante-dix mille euros pour la vente de marchandises ou la fourniture de logement, et soixante-dix mille euros pour les autres activités.
+
+      Le régime micro-BNC, ou déclaratif spécial, est le régime de droit commun des bénéfices non commerciaux dont les recettes ne dépassent pas soixante-dix mille euros hors taxes.
+
+      Dans les régimes micro, seul le chiffre d'affaires ou le montant des recettes est reporté sur la déclaration de revenus, et un abattement forfaitaire y est appliqué.
+
+      Le régime micro BA a remplacé le forfait agricole à compter des revenus de deux mille seize, en vertu de l'article trente-trois de la loi de finances rectificative du vingt-neuf décembre deux mille quinze, et il est codifié à l'article soixante-quatre bis du code général des impôts.
+
+      Il s'applique de plein droit lorsque la moyenne des recettes sur trois années ne dépasse pas quatre-vingt-deux mille huit cents euros hors taxes, et le bénéfice imposable est cette moyenne diminuée d'un abattement de quatre-vingt-sept pour cent.
+
+   B. Auto-entrepreneur et micro-entrepreneur.
+
+      Les contribuables relevant du micro-BIC ou du micro-BNC bénéficient automatiquement du régime micro social, qui se caractérise par un prélèvement libératoire des cotisations sociales.
+
+      Ce régime peut être complété par une option pour le versement libératoire de l'impôt sur le revenu.
+
+      Depuis deux mille seize, l'auto-entrepreneur est devenu le micro-entrepreneur, qui déclare son chiffre d'affaires chaque mois ou chaque trimestre pour le calcul de ses cotisations.
+
+   C. Déclaration contrôlée et régimes réels.
+
+      La déclaration contrôlée s'applique aux bénéfices non commerciaux, à titre obligatoire au-delà de soixante-dix mille euros de recettes, et quel que soit le montant pour les officiers publics et ministériels, les auteurs et sportifs optant pour le revenu moyen ou les contribuables exclus de la franchise en base de TVA.
+
+      Les contribuables relevant du micro-BNC peuvent opter pour la déclaration contrôlée, et le bénéfice est alors déclaré par le contribuable lui-même.
+
+      Le régime réel simplifié s'applique au-delà des limites du régime micro, soit cent soixante-dix mille et soixante-dix mille euros pour l'impôt sur le revenu, et quatre-vingt-deux mille huit cents et trente-trois mille deux cents euros pour la TVA.
+
+      Le régime réel normal s'applique de plein droit au-delà de sept cent quatre-vingt-neuf mille euros hors taxes pour le commerce et le logement, et de deux cent trente-huit mille euros pour les autres activités, selon les seuils de deux mille dix-sept, et les entreprises au réel simplifié peuvent y opter.
+
+      Une entreprise peut ainsi être au régime simplifié pour la TVA tout en restant au régime micro pour ses bénéfices.
+
+   D. La TVA.
+
+      La franchise en base dispense de déclarer et de payer la TVA les entreprises dont le chiffre d'affaires de l'année précédente ne dépasse pas quatre-vingt-deux mille huit cents euros pour le commerce et l'hébergement, ou trente-trois mille deux cents euros pour les prestations de services et les professions libérales.
+
+      Des seuils majorés de quatre-vingt-onze mille euros et de trente-cinq mille deux cents euros s'appliquent lorsque le chiffre d'affaires de l'avant-dernière année était inférieur aux seuils de base.
+
+      La TVA collectée est facturée aux clients, la TVA déductible est récupérée sur les achats professionnels, et la TVA nette est la différence entre les deux.
+
+      Lorsque la TVA déductible excède la TVA collectée, l'entreprise détient une créance sur l'État et peut demander le remboursement du crédit de TVA, en principe chaque année, ou chaque mois ou trimestre sous conditions.
+
+      Le remboursement forfaitaire agricole compense la TVA supportée sur leurs achats par les exploitants agricoles qui ne sont pas redevables de la TVA.
+
+   E. Autres impôts des entreprises.
+
+      La taxe sur les salaires est due par les employeurs non assujettis à la TVA, ou assujettis sur moins de quatre-vingt-dix pour cent de leur chiffre d'affaires, et seulement s'ils sont établis en France.
+
+      La contribution exceptionnelle sur l'impôt sur les sociétés visait les entreprises de plus d'un milliard d'euros de chiffre d'affaires, et la contribution additionnelle celles d'au moins trois milliards, pour les exercices clos du trente et un décembre deux mille dix-sept au trente décembre deux mille dix-huit.
+
+      La taxe agents généraux d'assurance frappe l'indemnité compensatrice de fin de mandat lorsque la plus-value correspondante est exonérée d'impôt sur le revenu.
+
+      L'exercice est la période comptable au terme de laquelle l'entreprise établit son bilan, et l'on distingue l'exercice courant, l'exercice précédent et les exercices antérieurs.
+
+      Le fichier des redevables permanents recense les personnes physiques ou morales exerçant une activité commerciale, industrielle, artisanale, agricole ou non commerciale.
+
+V. LA FISCALITÉ LOCALE ET LE CADASTRE.
+
+   A. Les bases.
+
+      La valeur locative cadastrale, loyer annuel théorique d'un bien loué à des conditions normales, sert de base aux impôts directs locaux.
+
+      Les bases brutes sont la valeur locative revalorisée chaque année après abattements et réductions, et les bases nettes sont les bases brutes après les exonérations propres à chaque collectivité.
+
+      Les propriétés bâties sont réparties en trois catégories : les locaux d'habitation et à usage professionnel, les locaux commerciaux et biens divers, et les établissements industriels.
+
+      Le local est l'unité d'évaluation des propriétés bâties et peut comprendre une partie principale, des dépendances et des constructions accessoires.
+
+      Le bien ordinaire est tout local qui n'est ni une maison exceptionnelle ni un établissement industriel.
+
+      La maison exceptionnelle est un bien hors de la classification générale, comme un château, une abbaye ou un monument historique, un local professionnel spécialement aménagé comme un gymnase, ou un établissement hors du commun comme un grand magasin, un grand hôtel ou un grand cinéma.
+
+   B. L'évaluation des établissements industriels.
+
+      La méthode comptable applique au prix de revient des éléments, corrigé selon l'article mille quatre cent quatre-vingt-dix-neuf du code général des impôts, un taux de huit pour cent pour les terrains et de douze pour cent pour les constructions et installations.
+
+      La méthode particulière s'applique aux établissements industriels hors méthode comptable, selon les règles des locaux commerciaux : à partir du loyer du bail si le prix est normal, sinon par comparaison ou par appréciation directe à partir de la valeur vénale.
+
+   C. Le cadastre.
+
+      La parcelle est l'ensemble des terrains contigus d'une même section et d'un même lieu-dit, appartenant à un même propriétaire et formant un tout indépendant.
+
+      Le domaine non cadastré est la partie du plan non divisée en parcelles, principalement les routes et les cours d'eau, ainsi que certains terrains militaires ou zones de haute montagne.
+
+      Le document d'arpentage modifie le parcellaire en cas de division, de partage ou de lotissement, il est établi aux frais des parties par des personnes agréées par la DGFiP.
+
+   D. La contribution économique territoriale.
+
+      La contribution économique territoriale, créée le premier janvier deux mille dix en remplacement de la taxe professionnelle, comprend la cotisation foncière des entreprises et la cotisation sur la valeur ajoutée des entreprises.
+
+      Elle peut être plafonnée, sur demande dans le délai de réclamation de la CFE, lorsque la CFE et la CVAE dépassent trois pour cent de la valeur ajoutée.
+
+      La période de référence de la CFE est en général l'avant-dernière année précédant l'imposition.
+
+      Une cotisation minimum de CFE est due au lieu du principal établissement lorsque la base nette est inférieure à une base minimum fixée par la commune ou l'EPCI selon un barème lié au chiffre d'affaires.
+
+      Les avis de CFE ne sont pas envoyés par courrier : ils sont mis en ligne dans l'espace professionnel du site impots point gouv point fr et doivent être consultés avant la date limite de paiement.
+
+      La taxe additionnelle à la CVAE est perçue au profit des chambres de commerce et d'industrie de région, en complément de la taxe additionnelle à la CFE, avec un taux fixé chaque année.
+
+      La taxe professionnelle, supprimée en deux mille dix, reposait sur la valeur locative des immobilisations corporelles et, pour les titulaires de bénéfices non commerciaux, sur une partie des recettes.
+
+   E. Taxes foncières et taxes d'habitation.
+
+      La taxe foncière sur les propriétés bâties vise les constructions fixées au sol à perpétuelle demeure, et la taxe foncière sur les propriétés non bâties vise surtout les terrains agricoles, les forêts, les carrières et les étangs.
+
+      La taxe additionnelle à la taxe foncière non bâtie compense la suppression en deux mille onze des parts départementale et régionale et concerne les terres non agricoles.
+
+      La taxe pour frais de chambre d'agriculture est due sur les parcelles imposables à la taxe foncière non bâtie et sur une partie de celles qui en sont exonérées.
+
+      La taxe d'habitation est établie au nom de la personne qui dispose d'un local d'habitation au premier janvier de l'année d'imposition.
+
+      La taxe d'habitation sur les logements vacants est instituée sur délibération et vise les logements non meublés vacants depuis cinq années consécutives, hors des communes soumises à la taxe annuelle sur les logements vacants.
+
+      La taxe annuelle sur les logements vacants vise, depuis mille neuf cent quatre-vingt-dix-neuf et dans des communes fixées par décret où l'offre de logements est insuffisante, les logements vacants depuis deux années, son produit allant à l'Agence nationale de l'habitat, et elle n'est pas due par les organismes d'habitations à loyer modéré ni par les sociétés d'économie mixte.
+
+   F. Autres taxes locales.
+
+      La taxe d'enlèvement des ordures ménagères est facultative, son montant ne dépend pas du service rendu, et une part incitative peut s'y ajouter selon la quantité de déchets produits l'année précédente.
+
+      Les taxes spéciales d'équipement s'ajoutent à la taxe foncière bâtie, à la taxe foncière non bâtie, à la taxe d'habitation et à la CFE au profit de certains établissements publics locaux.
+
+      La taxe sur les friches commerciales, instituée depuis deux mille huit sur délibération, vise les locaux commerciaux inexploités depuis au moins deux ans.
+
+      La taxe pour la gestion des milieux aquatiques et la prévention des inondations peut être instituée depuis deux mille dix-huit par les intercommunalités qui exercent cette compétence.
+
+      La taxe sur les locaux à usage de bureaux, commerciaux ou de stockage s'applique en Île-de-France depuis mille neuf cent quatre-vingt-dix-neuf.
+
+      La taxe sur les surfaces commerciales vise les commerces de détail ouverts après le premier janvier mille neuf cent soixante, réalisant au moins quatre cent soixante mille euros de chiffre d'affaires et disposant de plus de quatre cents mètres carrés de surface de vente, ou rattachés à une enseigne dont le réseau dépasse quatre mille mètres carrés.
+
+      La taxe sur les loyers élevés des logements de petite surface vise, en zone de forte tension, les logements d'au plus quatorze mètres carrés loués au moins neuf mois lorsque le loyer dépasse un loyer de référence fixé par décret.
+
+      L'intégration fiscale progressive permet, après une fusion de communes aux taux très différents, de maintenir des taux distincts pendant au plus douze ans.
+
+VI. LE PATRIMOINE, LES MUTATIONS ET LES CONTRIBUTIONS.
+
+      L'impôt sur la fortune immobilière est dû par les personnes physiques dont le patrimoine immobilier net dépasse un million trois cent mille euros au premier janvier, et il a remplacé l'impôt de solidarité sur la fortune depuis deux mille dix-huit.
+
+      L'impôt de solidarité sur la fortune a été supprimé par l'article trente et un de la loi de finances pour deux mille dix-huit du trente décembre deux mille dix-sept.
+
+      L'enregistrement est la formalité qui donne date certaine à un acte, comme une vente, un échange ou une succession, et l'impôt perçu à cette occasion.
+
+      La mutation à titre gratuit est une succession ou une donation sans contrepartie, et la mutation à titre onéreux est une vente de biens meubles ou immeubles.
+
+      Les prélèvements sociaux sur les revenus du patrimoine et les placements de deux mille dix-huit comprennent la contribution sociale généralisée de neuf virgule deux pour cent, la contribution au remboursement de la dette sociale de zéro virgule cinq pour cent et le prélèvement de solidarité de sept virgule cinq pour cent.
+
+      La contribution exceptionnelle sur les hauts revenus s'applique au-delà de deux cent cinquante mille euros de revenu fiscal de référence pour une personne seule et de cinq cent mille euros pour un couple.
+
+      La contribution à l'audiovisuel public était due en cas de détention d'un téléviseur au premier janvier, adossée à la taxe d'habitation pour les particuliers et à la TVA pour les professionnels.
+
+      La contribution annuelle sur les revenus locatifs, qui avait remplacé la contribution additionnelle au droit de bail, a été supprimée depuis le premier janvier deux mille six pour les personnes physiques.
+
+VII. ÉMISSION, RÔLES ET PAIEMENT.
+
+   A. De l'émission à la mise en recouvrement.
+
+      L'émission est le montant de l'impôt mis à la charge d'une personne à partir de ses déclarations, des valeurs foncières de ses locaux ou d'une rectification.
+
+      Le rôle, titre exécutoire, est une liste des contribuables imposés dans une même commune, à la même date et pour une même catégorie d'impôt.
+
+      On compte en général un article par foyer fiscal pour l'impôt sur le revenu, un article par local pour la taxe d'habitation et un article par établissement pour la CFE.
+
+      Le rôle général regroupe les émissions de l'ensemble des contribuables selon un calendrier préétabli, alors que le rôle supplémentaire fait suite par exemple à une rectification.
+
+      L'homologation est faite par le directeur général des finances publiques, par le préfet ou par des agents délégataires ayant au moins le grade d'administrateur des finances publiques adjoint.
+
+      La mise en recouvrement intervient en règle générale le trentième jour suivant l'homologation, délai qui peut être raccourci à huit jours au minimum ou rallongé à soixante jours au maximum.
+
+      Pour les impôts recouvrés par avis de mise en recouvrement, la mise en recouvrement est la date de l'avis notifié au redevable.
+
+      L'avis d'imposition indique les bases, le montant à payer, la date de mise en recouvrement et la date limite de paiement.
+
+      Les impositions ordinaires sont celles qui ne résultent pas d'un contrôle fiscal sur place.
+
+   B. Prise en charge et majorations.
+
+      Pour les impôts sur rôle, les prises en charge comprennent le principal de l'impôt et les accessoires, c'est-à-dire les majorations et les frais de poursuites.
+
+      Un article non payé à l'échéance est majoré de dix pour cent, ou de cinq pour cent pour la CFE et l'IFER.
+
+      Un paiement non dématérialisé alors que la loi l'impose entraîne une majoration de zéro virgule deux pour cent.
+
+      Pour les impôts par avis de mise en recouvrement, la prise en charge constate les sommes non payées à l'exigibilité, comme une déclaration de TVA déposée sans paiement, un bordereau d'acomptes ou un relevé de solde d'impôt sur les sociétés, ou des droits issus d'un contrôle.
+
+   C. Les seuils.
+
+      La cotisation initiale d'impôt sur le revenu n'est pas mise en recouvrement si elle est inférieure à soixante et un euros avant imputation des crédits d'impôt, de même pour les prélèvements sociaux sur le patrimoine.
+
+      Si l'impôt passe sous soixante et un euros après imputation des crédits d'impôt, il n'est pas recouvré s'il est inférieur à douze euros.
+
+      Le seuil de douze euros s'applique aussi à la CFE, à l'IFER, aux taxes foncières, à la taxe d'habitation et aux taxes sur les logements vacants.
+
+      Les dégrèvements et restitutions inférieurs à huit euros ne sont pas effectués, ce montant s'appréciant par cote, exercice ou affaire.
+
+   D. Les moyens de paiement.
+
+      Le paiement dématérialisé des impôts autoliquidés des professionnels, comme la TVA, l'impôt sur les sociétés, la taxe sur les salaires ou la CVAE, se fait en mode EDI par envoi de fichiers ou en mode EFI par paiement en ligne, au format du prélèvement SEPA interentreprises.
+
+      Pour les impôts sur rôle des particuliers et pour la CFE, le paiement dématérialisé regroupe le prélèvement mensuel, le prélèvement à l'échéance et le paiement en ligne.
+
+      Le prélèvement à l'échéance autorise l'administration à prélever l'impôt dû, sans limitation de durée, et le titre interbancaire de paiement l'autorise ponctuellement.
+
+      Le paiement en ligne et le télérèglement sont des paiements à distance où le contribuable donne son ordre au coup par coup.
+
+      Depuis deux mille dix-neuf, l'impôt sur le revenu n'est plus suivi dans le taux de paiement dématérialisé, en raison du prélèvement à la source.
+
+      Les exclus de la mensualisation sont les contribuables dont le contrat a été résilié après deux incidents de prélèvement pour provision insuffisante.
+
+   E. Notions comptables.
+
+      La gestion coïncide avec l'année civile et comprend toutes les sommes encaissées, quelle que soit l'année d'émission, soit l'exercice courant, l'exercice précédent et les exercices antérieurs.
+
+      Le recouvrement désigne l'encaissement.
+
+      Les recettes budgétaires sont perçues au profit du budget de l'État, et les recettes non budgétaires au profit des collectivités locales, de la sécurité sociale ou d'organismes divers.
+
+VIII. LE RECOUVREMENT FORCÉ ET SES CONTESTATIONS.
+
+      Le recouvrement forcé regroupe les actions de masse, engagées sans juge, comme l'avis à tiers détenteur ou la saisie-vente, et les actions lourdes, qui exigent le juge, comme la saisie immobilière ou la mise en cause des dirigeants.
+
+      La mise en demeure de payer interrompt la prescription et constitue le préalable nécessaire aux poursuites génératrices de frais, notamment la saisie-vente.
+
+      L'avis à tiers détenteur permet au comptable d'appréhender sur simple demande les fonds détenus par un banquier ou un employeur.
+
+      La saisie administrative à tiers détenteur, prévue à l'article L. deux cent soixante-deux du livre des procédures fiscales, permet de saisir les créances du contribuable défaillant sur des tiers dépositaires, détenteurs ou débiteurs.
+
+      Le contentieux du recouvrement regroupe les oppositions à poursuites, les revendications d'objets saisis et les appels des décisions sur les actions lourdes, comme l'action paulienne, l'action en simulation ou la mise en cause d'un dirigeant.
+
+IX. LES ENTREPRISES EN DIFFICULTÉ.
+
+      La conciliation, créée par la loi du vingt-six juillet deux mille cinq de sauvegarde des entreprises, s'adresse au débiteur en difficulté qui n'est pas en cessation des paiements depuis plus de quarante-cinq jours, et elle est ouverte et close à sa seule initiative.
+
+      La cessation des paiements est l'impossibilité de faire face au passif exigible avec l'actif disponible.
+
+      La sauvegarde, créée par la même loi et en vigueur depuis le premier janvier deux mille six, est une procédure collective de prévention ouverte à la seule initiative du débiteur qui, sans être en cessation des paiements, ne peut surmonter ses difficultés.
+
+      Le redressement judiciaire, institué par la loi du vingt-cinq janvier mille neuf cent quatre-vingt-cinq, s'applique au débiteur en cessation des paiements.
+
+      La liquidation judiciaire, instituée par la même loi, met fin à l'activité lorsque le redressement est manifestement impossible, en réalisant le patrimoine par une cession globale ou des cessions séparées.
+
+      Dans ces deux procédures, le débiteur doit demander l'ouverture au plus tard quarante-cinq jours après la cessation des paiements s'il n'a pas demandé de conciliation, et le tribunal peut aussi être saisi par le ministère public ou par un créancier.
+
+      Le rétablissement professionnel, créé par l'ordonnance du douze mars deux mille quatorze, traite en quatre mois les situations irrémédiablement compromises des entrepreneurs sans actif suffisant, et il n'est pas une procédure collective, donc sans dessaisissement du débiteur ni suspension des poursuites.
+
+X. AMENDES, INFRACTIONS ET CONTRÔLE.
+
+   A. Les amendes recouvrées par la DGFiP.
+
+      Les comptables de la DGFiP recouvrent les amendes et condamnations pécuniaires sur la base d'un titre exécutoire.
+
+      L'amende forfaitaire, procédure simplifiée pour les contraventions des quatre premières classes et certains délits, est majorée par l'officier du ministère public pour les contraventions et par le procureur de la République de Rennes pour les délits si elle n'est pas payée dans les délais.
+
+      L'ordonnance pénale est une procédure de jugement simplifiée, écrite et non contradictoire, sans audience.
+
+      Le tribunal de police juge les contraventions de cinquième classe, le tribunal correctionnel juge les délits et les contraventions connexes, la cour d'appel réexamine les affaires jugées en premier ressort et la cour d'assises juge les crimes.
+
+      Le forfait de post-stationnement, issu de la dépénalisation du stationnement payant, peut être payé dans les trois mois du constat, puis l'ANTAI émet un forfait majoré recouvré comme une amende.
+
+      Le jour-amende fixe une contribution quotidienne d'au plus mille euros pendant au plus trois cent soixante jours, selon l'article cent trente et un tiret cinq du code pénal, et le défaut de paiement peut entraîner un emprisonnement d'une durée égale aux jours impayés.
+
+   B. Les infractions.
+
+      L'escroquerie consiste à tromper une personne par de faux noms ou des manœuvres frauduleuses pour qu'elle remette des fonds, délit prévu par les articles trois cent treize tiret un et suivants du code pénal.
+
+      La fraude fiscale consiste à se soustraire ou tenter de se soustraire frauduleusement à l'établissement ou au paiement de l'impôt, délit prévu à l'article mille sept cent quarante et un du code général des impôts.
+
+      Les poursuites pour fraude fiscale exigent une plainte préalable de l'administration, déposée après avis favorable de la Commission des infractions fiscales.
+
+   C. L'examen de comptabilité.
+
+      L'examen de comptabilité permet de contrôler depuis le bureau à partir du fichier des écritures comptables transmis par l'entreprise, avec les mêmes garanties qu'une vérification sur place et une charge moindre pour l'entreprise.
+
+   D. Le secret statistique.
+
+      Une donnée agrégée n'est pas diffusée si elle concerne moins de trois unités, ou moins de onze unités pour la fiscalité des personnes, comme l'impôt sur le revenu, les bénéfices ou la taxe d'habitation.
+
+      Elle n'est pas diffusée non plus si un élément dominant représente plus de quatre-vingt-cinq pour cent du montant agrégé.
+
+POINTS D'ATTENTION.
+
+      Le lexique date de mars deux mille vingt-deux et reprend des seuils anciens : la contribution à l'audiovisuel public a été supprimée en deux mille vingt-deux, la taxe d'habitation sur les résidences principales a disparu en deux mille vingt-trois, la CVAE est en cours de suppression progressive et les seuils des régimes micro et de la franchise en base de TVA ont été relevés depuis.
+
+      Il ne faut pas confondre crédit d'impôt, remboursable, et réduction d'impôt, jamais restituée.
+
+      Il ne faut pas confondre décharge, suppression totale après contentieux, et dégrèvement, notion plus large qui couvre aussi la réduction, la remise et la modération.
+
+      Il ne faut pas confondre action de masse, sans juge, et action lourde, avec juge.
+
+      Le rôle est un titre exécutoire pour les impôts directs, tandis que l'avis de mise en recouvrement authentifie une créance non payée à l'exigibilité.
+
+      Un foyer imposable s'apprécie avant crédits et réductions d'impôt, un foyer imposé s'apprécie sur le montant réellement mis en recouvrement.
+
+      La majoration pour retard est de dix pour cent, mais de cinq pour cent pour la CFE et l'IFER, et celle pour paiement non dématérialisé est de zéro virgule deux pour cent.
+
+      La taxe d'habitation sur les logements vacants vise une vacance de cinq ans sur délibération, alors que la taxe annuelle sur les logements vacants vise une vacance de deux ans de plein droit dans les zones fixées par décret.
+
+      La sauvegarde suppose l'absence de cessation des paiements, alors que le redressement et la liquidation la supposent.
+
+      Le rétablissement professionnel n'est pas une procédure collective.
+
+      Les seuils de soixante et un euros, de douze euros et de huit euros ne visent pas la même chose : mise en recouvrement initiale, mise en recouvrement après crédits, et restitution.
+
+      Le document cite un seuil d'impôt de solidarité sur la fortune de deux millions cinq cent soixante-dix mille euros dans la liste des impôts directs et de un million trois cent mille euros dans sa définition : retenir un million trois cent mille euros, seuil de l'ISF depuis deux mille treize et de l'IFI.
+
+EXEMPLES CITES.
+
+      Un garage imposé distinctement constitue un article de taxe d'habitation séparé.
+
+      Un article de taxes foncières peut comprendre une cote de taxe foncière bâtie et une cote de taxe foncière non bâtie.
+
+      Un château classé monument historique, un gymnase ou un grand magasin sont des maisons exceptionnelles.
+
+      Une éolienne, une centrale photovoltaïque ou un transformateur électrique sont soumis à l'imposition forfaitaire sur les entreprises de réseaux.
+
+      Les dispositifs Scellier et Duflot sont des réductions d'impôt pour l'investissement locatif neuf.
+
+      Le crédit d'impôt recherche et le crédit d'impôt emploi à domicile sont des crédits d'impôt.
